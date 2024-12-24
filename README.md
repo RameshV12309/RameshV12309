@@ -10,36 +10,36 @@
 <br>9. 🛠Blockchain Savvy: Comprehensive understanding of Blockchain Technologies, including Smart Contracts, DeFi, Crypto Exchanges, and secure wallet development.
 <br>10. 🧪Experienced in testing frameworks like Selenium and Appium, ensuring high-quality software delivery.
 <br>11. 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
-<br>12. 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: [React.js, Next.js, Node.js, Express.js, Component-Based Architecture and File-Based Routing, API Integration, State Management (Redux, Context API) and Performance Optimization and Error Handling]
-	    - 1. 🚀Component-Based Architecture
-	    - 2.  File-Based Routing (Next.js)
-	    - 3.  State Management Layer
-	    - 4.  Data Fetching and Integration Layer
-	    - 5.  Styling Layer
-	    - 6.  API Integration Layer
-	    - 7.  Testing Frameworks Layer
-	    - 8.  Performance Optimization Layer
-	    - 9.  Error Handling Layer
-	    - 10. DevOps & CI/CD Integration Layer
-	    - 11. Authentication and Security Layer
-	    - 12. Internationalization (i18n)
-	    - 13. User Interface (UI) Layer
-	    - 14. Deployment and Monitoring Layer
-	    - 15. Data Caching and Persistence Layer
-	    - 16. Push Notifications Layer
-	    - 17. Third-Party Library Integration Layer
-	    - 18. Serverless & Server Architecture Layer
-	    - 19. Microservices Framework Layer
-	    - 20. Event-Driven Model Architecture Layer
-	    - 21. AI/ML Integration Architecture Layer
-	    - 22. Orchestration and Messaging Layer
-	    - 23. Business Logic Layer
-	    - 24. Offline Support Layer
-	    - 25. Scalability and Performance
-	    - 26. Middleware and Integration Layer
-	    - 27. High Availability and Scalability
-	    - 28. Backup and Recovery
-	    - 29. Analytics and Reporting
+<br>12. 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: [React.js, Next.js, Node.js, Express.js, Component-Based Architecture and File-Based Routing, API Integration, State Management (Redux, Context API) and Performance Optimization and Error Handling]<br>
+	    - 1. 🚀Component-Based Architecture<br>
+	    - 2. 📂File-Based Routing (Next.js)<br>
+	    - 3.  State Management Layer<br>
+	    - 4.  Data Fetching and Integration Layer<br>
+	    - 5.  Styling Layer<br>
+	    - 6.  API Integration Layer<br>
+	    - 7.  Testing Frameworks Layer<br>
+	    - 8.  Performance Optimization Layer<br>
+	    - 9.  Error Handling Layer<br>
+	    - 10. DevOps & CI/CD Integration Layer<br>
+	    - 11. Authentication and Security Layer<br>
+	    - 12. Internationalization (i18n)<br>
+	    - 13. User Interface (UI) Layer<br>
+	    - 14. Deployment and Monitoring Layer<br>
+	    - 15. Data Caching and Persistence Layer<br>
+	    - 16. Push Notifications Layer<br>
+	    - 17. Third-Party Library Integration Layer<br>
+	    - 18. Serverless & Server Architecture Layer<br>
+	    - 19. Microservices Framework Layer<br>
+	    - 20. Event-Driven Model Architecture Layer<br>
+	    - 21. AI/ML Integration Architecture Layer<br>
+	    - 22. Orchestration and Messaging Layer<br>
+	    - 23. Business Logic Layer<br>
+	    - 24. Offline Support Layer<br>
+	    - 25. Scalability and Performance Layer<br>
+	    - 26. Middleware and Integration Layer<br>
+	    - 27. High Availability and Scalability Layer<br>
+	    - 28. Backup and Recovery Layer<br>
+	    - 29. Analytics and Reporting Layer<br>
  - BRD (Business Requirements Document) with complete use cases.
  - BRD Business Flow Architecture
  - Complete Technical Architecture Master Documentation
@@ -123,7 +123,6 @@
     - All kind of Test case and all the Staging Reports
     - Slack Setup
     - Github Setup
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RameshV12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
