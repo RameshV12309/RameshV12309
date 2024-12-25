@@ -52,7 +52,7 @@
 	<li> 📊📈Analytics and Reporting Layer</li>
 </ul>
 
-<p>$\color{orange}{\textsf{RAMESH}}$ - 📄✅BRD (Business Requirements Document) with complete use cases.
+<p>$\color{orange}{\textsf{[20. ]}}$ - 📄✅BRD (Business Requirements Document) with complete use cases.
  - 🏛️🔄BRD Business Flow Architecture
  - 📚🔧Complete Technical Architecture Master Documentation
  - ☁️⚡Back-End AWS Lambda Serverless Event-Driven Architecture
@@ -75,7 +75,7 @@
  - 📝🔍Code Review and Test case Review Reports
  - 📊👀Daily Monitoring Reports
  - ✅📋Every Quality once complete Audit Reports</p>
-<br><br>
+
 <ul>
     <li> 🔒🔐💻Data Security Architecture</li>
     <li> ⚙️📈High Availability and Scalability</li>
