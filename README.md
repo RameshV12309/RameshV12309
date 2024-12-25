@@ -74,7 +74,8 @@
  - 📝🔍Code Review and Test case Review Reports
  - 📊👀Daily Monitoring Reports
  - ✅📋Every Quality once complete Audit Reports
-<br><ul>
+<br><br>
+<ul>
     <li> 🔒🔐💻Data Security Architecture</li>
     <li> ⚙️📈High Availability and Scalability</li>
     <li> 💾🔄Backup and Recovery (BR)</li>
