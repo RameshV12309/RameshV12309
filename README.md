@@ -1,27 +1,27 @@
 # 💫 $\color{orange}{\textsf{About Me: RAMESH V    [Technical Architect: NBFC-FinTech]}}$
 <br>$\color{red}{\textsf{[1.]}}$ 🚀Master of Modern "Technical Architecture": Specializing in cutting-edge tech stack technologies across diverse platforms.
-<br>2. ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, and containerized architectures</b>
-<br>3. 🎯 Leadership and Strategy: Expertise in team leadership, strategic planning, and execution.
-<br>4. 🤝 Team Management: Skilled in managing and mentoring diverse teams.
-<br>5. 💰 Cost Optimization: Proven track record of reducing expenses while maintaining efficiency.
-<br>6. 🚀 Performance Optimization: Enhanced system and process performance through innovative solutions.
-<br>7. 💡 Innovation and Problem Solving: Creative thinker with a knack for solving complex challenges.
-<br>8. ⏱️ Timely Product Delivery: Successfully delivered products on time by leveraging AI/ML and ChatGPT concepts where necessary.
-<br>9. 🌟 Startup Expertise: Successfully set up end-to-end solutions for startup-level organizations
-<br>10. 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, Docker & Kubernetes, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
-<br>11. 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
-<br>12. 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
-<br>13. 📱Proficient in mobile app development for <b>Android and iOS</b>, leveraging tools like React Native and Appium for cross-platform and automated testing.
-<br>14. 🔒Security Standards Expertise: Skilled in implementing and maintaining compliance with <b>SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines</b>.
-<br>15. 💳Master of extensive knowledge in <b>Payment Gateway</b> Integration, including...<br>
+<br>$\color{red}{\textsf{[2.]}}$ ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, and containerized architectures</b>
+<br>$\color{red}{\textsf{[3.]}}$ 🎯 Leadership and Strategy: Expertise in team leadership, strategic planning, and execution.
+<br>$\color{red}{\textsf{[4.]}}$ 🤝 Team Management: Skilled in managing and mentoring diverse teams.
+<br>$\color{red}{\textsf{[5.]}}$ 💰 Cost Optimization: Proven track record of reducing expenses while maintaining efficiency.
+<br>$\color{red}{\textsf{[6.]}}$ 🚀 Performance Optimization: Enhanced system and process performance through innovative solutions.
+<br>$\color{red}{\textsf{[7.]}}$ 💡 Innovation and Problem Solving: Creative thinker with a knack for solving complex challenges.
+<br>$\color{red}{\textsf{[8.]}}$ ⏱️ Timely Product Delivery: Successfully delivered products on time by leveraging AI/ML and ChatGPT concepts where necessary.
+<br>$\color{red}{\textsf{[9.]}}$ 🌟 Startup Expertise: Successfully set up end-to-end solutions for startup-level organizations
+<br>$\color{red}{\textsf{[10.]}}$ 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, Docker & Kubernetes, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
+<br>$\color{red}{\textsf{[11.]}}$ 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
+<br>$\color{red}{\textsf{[12.]}}$ 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
+<br>$\color{red}{\textsf{[13.]}}$ 📱Proficient in mobile app development for <b>Android and iOS</b>, leveraging tools like React Native and Appium for cross-platform and automated testing.
+<br>$\color{red}{\textsf{[14.]}}$ 🔒Security Standards Expertise: Skilled in implementing and maintaining compliance with <b>SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines</b>.
+<br>$\color{red}{\textsf{[15.]}}$ 💳Master of extensive knowledge in <b>Payment Gateway</b> Integration, including...<br>
 	&nbsp;&nbsp;&nbsp;⇥.  🏦UPI, 🔄IMPS, 📲PhonePe, 💼PayTm, 🌐GPay, and 📝E-Mandate Process.
-<br>16. 🛠Blockchain Savvy: Comprehensive understanding of <b>Blockchain Technologies</b>, including Smart Contracts, DeFi, <b>Crypto Exchanges</b>, and secure wallet development.
-<br>17. 🧪Experienced in testing frameworks like Selenium and Appium, ensuring high-quality software delivery.
-<br>18. 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
-<br>19. 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: <b>[ "Technical & Solution Architect", MERN & Full Stack [Node js, React js, Redux, Ember.js Vue js, Dot NET-Core, Ajax, Full Stack, Golang, Python, Java, Java-Script, jQuery, HTML, CSS], Blockchain- Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. "Cloud: AWS, Azure & CGP", "DevOps", Jira & Agile Development Methodologies, “React Native Mobile [Android & iOS]”, "Database [MongoDB, SQL, and MySQL], Testing Team [Selenium & Appium Android]", REST, gRPC, RabbitMQ, Kafka, AI/ML, ChatGPT, Payment Gateway: UPI, IMPS, PayTm & Gpay, E-mandate, & SOC 2, PCI, DSS, HIPAA, GDPR and RBI Guidelines. ]</b>
+<br>$\color{red}{\textsf{[16.]}}$ 🛠Blockchain Savvy: Comprehensive understanding of <b>Blockchain Technologies</b>, including Smart Contracts, DeFi, <b>Crypto Exchanges</b>, and secure wallet development.
+<br>$\color{red}{\textsf{[17.]}}$ 🧪Experienced in testing frameworks like Selenium and Appium, ensuring high-quality software delivery.
+<br>$\color{red}{\textsf{[18.]}}$ 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
+<br>$\color{red}{\textsf{[19.]}}$ 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: <b>[ "Technical & Solution Architect", MERN & Full Stack [Node js, React js, Redux, Ember.js Vue js, Dot NET-Core, Ajax, Full Stack, Golang, Python, Java, Java-Script, jQuery, HTML, CSS], Blockchain- Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. "Cloud: AWS, Azure & CGP", "DevOps", Jira & Agile Development Methodologies, “React Native Mobile [Android & iOS]”, "Database [MongoDB, SQL, and MySQL], Testing Team [Selenium & Appium Android]", REST, gRPC, RabbitMQ, Kafka, AI/ML, ChatGPT, Payment Gateway: UPI, IMPS, PayTm & Gpay, E-mandate, & SOC 2, PCI, DSS, HIPAA, GDPR and RBI Guidelines. ]</b>
 
 <h1>$\color{orange}{\textsf{Architecture Component Layers:}}$</h1>
-$\color{red}{\textsf{<ul>}}$
+<ul>
 	<li> 🚀Component-Based Architecture</li>
 	<li>  📂File-Based Routing (Next.js)</li>
 	<li>  ⚙️State Management Layer</li>
