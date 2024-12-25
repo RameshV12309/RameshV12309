@@ -130,223 +130,223 @@
         <th>$\color{orange}{\textsf{Azure Service}}$</th>
     </tr>
     <tr>
-      <td>1</td>
+      <td>$\color{orange}{\textsf{1}}$</td>
       <td>Amazon EC2 (Elastic Compute Cloud)</td>
       <td>Google Compute Engine</td>
       <td>Azure Virtual Machines</td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>$\color{orange}{\textsf{2}}$</td>
         <td>AWS Lambda</td>
         <td>Google Cloud Functions</td>
         <td>Azure Functions</td>
       </tr>
       <tr>
-        <td>3</td>
+        <td>$\color{orange}{\textsf{3}}$</td>
         <td>Amazon S3 (Simple Storage Service)</td>
         <td>Google Cloud Storage</td>
         <td>Azure Blob Storage</td>
       </tr>
       <tr>
-        <td>4</td>
+        <td>$\color{orange}{\textsf{4}}$</td>
         <td>Amazon RDS (Relational Database Service)</td>
         <td>Google Cloud SQL</td>
         <td>Azure SQL Database</td>
       </tr>
       <tr>
-        <td>5</td>
+        <td>$\color{orange}{\textsf{5}}$</td>
         <td>Amazon DynamoDB</td>
         <td>Google Cloud Firestore / Datastore</td>
         <td>Azure Cosmos DB (with MongoDB API)</td>
       </tr>
       <tr>
-        <td>6</td>
+        <td>$\color{orange}{\textsf{6}}$</td>
         <td>Amazon VPC (Virtual Private Cloud)</td>
         <td>Google Virtual Private Cloud (VPC)</td>
         <td>Azure Virtual Network (VNet)</td>
       </tr>
       <tr>
-        <td>7</td>
+        <td>$\color{orange}{\textsf{7}}$</td>
         <td>Amazon CloudFront (CDN)</td>
         <td>Google Cloud CDN</td>
         <td>Azure CDN</td>
       </tr>
       <tr>
-        <td>8</td>
+        <td>$\color{orange}{\textsf{8}}$</td>
         <td>AWS IAM (Identity and Access Management)</td>
         <td>Google Cloud IAM</td>
         <td>Azure Active Directory</td>
       </tr>
       <tr>
-        <td>9</td>
+        <td>$\color{orange}{\textsf{9}}$</td>
         <td>Amazon Route 53 (DNS)</td>
         <td>Google Cloud DNS</td>
         <td>Azure DNS</td>
       </tr>
       <tr>
-        <td>10</td>
+        <td>$\color{orange}{\textsf{10}}$</td>
         <td>Amazon CloudWatch</td>
         <td>Google Cloud Monitoring (formerly Stackdriver)</td>
         <td>Azure Monitor</td>
       </tr>
       <tr>
-        <td>11</td>
+        <td>$\color{orange}{\textsf{11}}$</td>
         <td>Amazon SQS (Simple Queue Service)</td>
         <td>Google Cloud Pub/Sub</td>
         <td>Azure Queue Storage</td>
       </tr>
       <tr>
-        <td>12</td>
+        <td>$\color{orange}{\textsf{12}}$</td>
         <td>Amazon SNS (Simple Notification Service)</td>
         <td>Google Cloud Pub/Sub</td>
         <td>Azure Notification Hubs / Event Grid</td>
       </tr>
       <tr>
-        <td>13</td>
+        <td>$\color{orange}{\textsf{13}}$</td>
         <td>Amazon API Gateway</td>
         <td>Google Cloud Endpoints / Apigee</td>
         <td>Azure API Management</td>
       </tr>
       <tr>
-        <td>14</td>
+        <td>$\color{orange}{\textsf{14}}$</td>
         <td>AWS CodePipeline</td>
         <td>Google Cloud Build</td>
         <td>Azure DevOps Pipelines</td>
       </tr>
       <tr>
-        <td>15</td>
+        <td>$\color{orange}{\textsf{15}}$</td>
         <td>AWS CodeBuild</td>
         <td>Google Cloud Build</td>
         <td>Azure DevOps Build Service</td>
       </tr>
       <tr>
-        <td>16</td>
+        <td>$\color{orange}{\textsf{16}}$</td>
         <td>AWS CodeCommit</td>
         <td>Google Cloud Source Repositories</td>
         <td>Azure Repos</td>
       </tr>
       <tr>
-        <td>17</td>
+        <td>$\color{orange}{\textsf{17}}$</td>
         <td>AWS CodeDeploy</td>
         <td>Google Cloud Deploy</td>
         <td>Azure DevOps Release Management</td>
       </tr>
       <tr>
-        <td>18</td>
+        <td>$\color{orange}{\textsf{18}}$</td>
         <td>AWS Elastic Beanstalk</td>
         <td>Google App Engine</td>
         <td>Azure App Service</td>
       </tr>
       <tr>
-        <td>19</td>
+        <td>$\color{orange}{\textsf{19}}$</td>
         <td>AWS Fargate</td>
         <td>Google Cloud Run</td>
         <td>Azure Container Instances (ACI)</td>
       </tr>
       <tr>
-        <td>20</td>
+        <td>$\color{orange}{\textsf{20}}$</td>
         <td>Amazon EKS (Elastic Kubernetes Service)</td>
         <td>Google Kubernetes Engine (GKE)</td>
         <td>Azure Kubernetes Service (AKS)</td>
       </tr>
       <tr>
-        <td>21</td>
+        <td>$\color{orange}{\textsf{21}}$</td>
         <td>Amazon SageMaker</td>
         <td>Google AI Platform</td>
         <td>Azure Machine Learning</td>
       </tr>
       <tr>
-        <td>22</td>
+        <td>$\color{orange}{\textsf{22}}$</td>
         <td>Amazon Elastic File System (EFS)</td>
         <td>Google Filestore</td>
         <td>Azure Files</td>
       </tr>
       <tr>
-        <td>23</td>
+        <td>$\color{orange}{\textsf{23}}$</td>
         <td>Amazon Elasticsearch Service</td>
         <td>Google Cloud Search</td>
         <td>Azure Cognitive Search</td>
       </tr>
       <tr>
-        <td>24</td>
+        <td>$\color{orange}{\textsf{24}}$</td>
         <td>AWS Glue</td>
         <td>Google Dataflow / Cloud Composer</td>
         <td>Azure Data Factory</td>
       </tr>
       <tr>
-        <td>25</td>
+        <td>$\color{orange}{\textsf{25}}$</td>
         <td>AWS Kinesis</td>
         <td>Google Cloud Pub/Sub / Dataflow</td>
         <td>Azure Event Hubs</td>
       </tr>
       <tr>
-        <td>26</td>
+        <td>$\color{orange}{\textsf{26}}$</td>
         <td>AWS Step Functions</td>
         <td>Google Cloud Workflows</td>
         <td>Azure Logic Apps</td>
       </tr>
       <tr>
-        <td>27</td>
+        <td>$\color{orange}{\textsf{27}}$</td>
         <td>Amazon Rekognition</td>
         <td>Google Cloud Vision AI</td>
         <td>Azure Cognitive Services (Vision API)</td>
       </tr>
       <tr>
-        <td>28</td>
+        <td>$\color{orange}{\textsf{28}}$</td>
         <td>Amazon SES (Simple Email Service)</td>
         <td>Google Cloud Email API / SendGrid</td>
         <td>Azure Communication Services (Email)</td>
       </tr>
       <tr>
-        <td>29</td>
+        <td>$\color{orange}{\textsf{29}}$</td>
         <td>AWS WAF (Web Application Firewall)</td>
         <td>Google Cloud Armor</td>
         <td>Azure Web Application Firewall</td>
       </tr>
       <tr>
-        <td>30</td>
+        <td>$\color{orange}{\textsf{30}}$</td>
         <td>Amazon Inspector</td>
         <td>Google Cloud Security Command Center (SCC)</td>
         <td>Azure Security Center</td>
       </tr>
       <tr>
-        <td>31</td>
+        <td>$\color{orange}{\textsf{31}}$</td>
         <td>AWS KMS (Key Management Service)</td>
         <td>Google Cloud Key Management (KMS)</td>
         <td>Azure Key Vault</td>
       </tr>
       <tr>
-        <td>32</td>
+        <td>$\color{orange}{\textsf{32}}$</td>
         <td>Amazon CloudTrail</td>
         <td>Google Cloud Audit Logs</td>
         <td>Azure Activity Logs</td>
       </tr>
       <tr>
-        <td>33</td>
+        <td>$\color{orange}{\textsf{33}}$</td>
         <td>AWS ELB (Elastic Load Balancer)</td>
         <td>Google Cloud Load Balancing</td>
         <td>Azure Load Balancer</td>
       </tr>
       <tr>
-        <td>34</td>
+        <td>$\color{orange}{\textsf{34}}$</td>
         <td>AWS S3 Glacier</td>
         <td>Google Cloud Archive Storage</td>
         <td>Azure Archive Storage</td>
       </tr>
       <tr>
-        <td>35</td>
+        <td>$\color{orange}{\textsf{35}}$</td>
         <td>AWS GuardDuty</td>
         <td>Google Cloud Security Command Center (SCC)</td>
         <td>Azure Security Center Threat Protection</td>
       </tr>
       <tr>
-        <td>36</td>
+        <td>$\color{orange}{\textsf{36}}$</td>
         <td>AWS Macie</td>
         <td>Google Cloud Data Loss Prevention (DLP)</td>
         <td>Azure Purview</td>
       </tr>
       <tr>
-        <td>37</td>
+        <td>$\color{orange}{\textsf{37}}$</td>
         <td>AWS CloudFormation</td>
         <td>Google Cloud Deployment Manager</td>
         <td>Azure Resource Manager (ARM Templates)</td>
