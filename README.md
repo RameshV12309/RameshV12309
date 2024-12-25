@@ -115,7 +115,7 @@
 <h1>Cloud Mastery of Architecture Component Layers:</h1>
 
 <table>
-    <tr>
+    <tr background-color: #96D4D4>
         <th>#</th>
         <th>AWS Service</th>
         <th>GCP Service</th>
