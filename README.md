@@ -390,7 +390,7 @@ $\color{orange}{\textsf{[=>]}}$ I am an IT professional with <b>18+ years of exp
 </ul>
 <p>$\color{orange}{\textsf{If you want more Certification Details, Click below Linkedin link:}}$</p>
 
-[![<p style="font-size: 24px;">LinkedIn</p>](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)
+[![<p style="font-size: 54px">LinkedIn</p>](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)
 
 
   
