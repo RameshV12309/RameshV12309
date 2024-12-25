@@ -371,6 +371,52 @@
 	<li> NOTE: Successfully worked on more than 10 products</li>
 </ul>
 
+
+<ul>
+    <li>Best Performer Award: Received the Best Performer Award for outstanding contributions during tenure.</li> 
+    <li>Successful Re-Architecture: Successfully completed re-architecture of Cloud Platforms, MERN Stack, DevOps, Mobile, Database, and Jira</li>
+    <li>Cost Optimization: Achieved significant cost savings post-re-architecture:
+    <ul>
+        <li>AWS Lambda: Reduced costs by 80%
+        <li>S3 - Simple Storage Service: Saved 50%</li>
+        <li>AWS Cognito-ID: Reduced costs by 100%</li>
+        <li>Data Transfer Services: Achieved 40% savings</li>
+        <li>EC2 Instances: Reduced costs by 50%</li>
+        <li>NOTE: We utilized over 60 Cloud Platform Services, and I successfully achieved an overall cost savings of 40–60%.</li>
+    </ul></li>	
+    <li>Modern Tech Stack Implementation:
+    <ul>   
+    <li>Optimized code for scalability, high performance, and enhanced security</ul></li>
+    <li>CI/CD Pipelines: I was Implemented CI/CD pipelines to automate testing and deployment, reducing manual errors and improving development speed</li>
+    <li>Timely Product Delivery: I was Delivered products on time by leveraging AI/ML and ChatGPT concepts where necessary implemented</li>
+    <li>Business Improvement: I was completely reduced manual work and i improved business efficiency by up to 40%</li>
+    <li>Database Query Optimization: I did Optimized database queries, reducing costs by 30%</li>
+    <li>Database Data Compression: I was implemented compression techniques to reduce storage requirements for large datasets</li>
+    <li>Code Standards and Security: I did Re-implemented code standards, conducted thorough code reviews, and ensured robust code security practices, and this will help to developer point-of-view</li>
+    <li>Optimized Front-End Performance: I was used best practices for front-end optimization, such as Lazy Loading and Image Compression, Data Caching Mechanism, Offline Support, Content Delivery Network (CDN), Streaming Videos and Images, Optimizing API Calls and etc…, to improve speed.</li>
+    <li>Startup Expertise: Successfully set up end-to-end Solutions for startup-level organizations</li>
+    <li>Team and Technology Management: Handled diverse teams and technologies, including roles such as "Technical & Solution Architect", "Front-End", "Back-End", "Cloud Platforms", "DevOps", "Database", "Product Owner", "Stakeholders", and "Business"</li>
+    <li>AWS Well-Architected Framework: Hands-on experience with the AWS Well-Architected Framework and implemented it for multiple projects</li>
+    <li>Security Enhancements: Introduced multiple security measures at application and AWS levels, including:</li></ul></li>
+    <ul>
+        <li>JWT token authentication and authorization
+        <li>AWS Cognito-ID</li>
+        <li>API keys, IP whitelisting</li>
+        <li>SSL certificates (Private/Public key encryption)</li>
+        <li>Hybrid and symmetric encryption algorithms</li>
+        <li>Data masking and additional legal-compliant security layers</li>
+    </ul></li>
+    <li>Project Leadership: I was successfully led and completed more than five projects from start to go-live as an Architect</li>
+    <li>AWS AI/ML and ChatGPT Integration: I was successfully implemented Amazon Rekognition, SageMaker, Alexa, and ChatBot services, reducing team size and costs.</li>
+    <li>Code Refactoring: Regularly refactored code to simplify logic and enhance efficiency</li>
+    <h2>Real-Time Cost Monitoring:</h2>
+    <ul>
+        <li>Enabled real-time cost monitoring dashboards</li>
+        <li>Set budget Alerts and Automated Cost Reporting</li>
+        <li>Implemented consolidated Billing to Optimize Cost transparency</li>
+</ul>
+
+
 # 📊 $\color{orange}{\textsf{GitHub Stats:}}$
 ![](https://github-readme-stats.vercel.app/api?username=RameshV12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RameshV12309&theme=dark&hide_border=false)<br/>
