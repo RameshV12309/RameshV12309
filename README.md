@@ -386,6 +386,7 @@
 	<ul><li>Academy Europe Open University</li>
  	<li>💻🏗️Software Architecture Design Professional Certificate Program</li>
 	<li>👨‍💻🎓Software Engineering Professional Diploma Program</ul></li>
+	<p>If you want more certification details, click here: [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)]</p>
 </ul>
 
   
