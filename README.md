@@ -371,7 +371,7 @@
 	<li> NOTE: Successfully worked on more than 10 products</li>
 </ul>
 
-
+<h1>$\color{orange}{\textsf{Greatest Achievements:}}$</h1>
 <ul>
     <li>Best Performer Award: Received the Best Performer Award for outstanding contributions during tenure.</li> 
     <li>Successful Re-Architecture: Successfully completed re-architecture of Cloud Platforms, MERN Stack, DevOps, Mobile, Database, and Jira</li>
