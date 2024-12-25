@@ -425,7 +425,7 @@ $\color{orange}{\textsf{[=>]}}$ I am an IT professional with <b>18+ years of exp
         <li>EC2 Instances: Reduced costs by 50%</li>
         <li>NOTE: We utilized over 60 Cloud Platform Services, and I successfully achieved an overall cost savings of 40–60%.</li>
     </ul></li>	
-    <li>Modern Tech Stack Implementation:
+    <li>Modern Tech Stack has been Implemented Successful
     <ul>   
     <li>Optimized code for scalability, high performance, and enhanced security</ul></li>
     <li>CI/CD Pipelines: I was Implemented CI/CD pipelines to automate testing and deployment, reducing manual errors and improving development speed</li>
