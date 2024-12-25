@@ -51,7 +51,7 @@
 	<li> 💾🔄Backup and Recovery Layer</li>
 	<li> 📊📈Analytics and Reporting Layer</li>
 </ul>	
- - 📄✅BRD (Business Requirements Document) with complete use cases.
+$\color{orange}{\textsf{[20.]}}$ - 📄✅BRD (Business Requirements Document) with complete use cases.
  - 🏛️🔄BRD Business Flow Architecture
  - 📚🔧Complete Technical Architecture Master Documentation
  - ☁️⚡Back-End AWS Lambda Serverless Event-Driven Architecture
