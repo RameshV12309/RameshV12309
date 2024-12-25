@@ -409,7 +409,7 @@
     <li>Project Leadership: I was successfully led and completed more than five projects from start to go-live as an Architect</li>
     <li>AWS AI/ML and ChatGPT Integration: I was successfully implemented Amazon Rekognition, SageMaker, Alexa, and ChatBot services, reducing team size and costs.</li>
     <li>Code Refactoring: Regularly refactored code to simplify logic and enhance efficiency</li>
-    <h2>Real-Time Cost Monitoring:</h2>
+    <h2>$\color{orange}{\textsf{Real-Time Cost Monitoring:}}$</h2>
     <ul>
         <li>Enabled real-time cost monitoring dashboards</li>
         <li>Set budget Alerts and Automated Cost Reporting</li>
