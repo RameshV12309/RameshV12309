@@ -1,6 +1,5 @@
 # 💫 $\color{orange}{\textsf{About Me: RAMESH V    [Technical Architect: NBFC-FinTech]}}$
-
-<br>$\color{orange}{\textsf{[I.]}}$ I am an IT professional with 18+ years of experience in both product-based and service-based organizations
+$\color{orange}{\textsf{[I.]}}$ I am an IT professional with 18+ years of experience in both product-based and service-based organizations
 <br>$\color{orange}{\textsf{[1.]}}$ 🚀Master of Modern "Technical Architecture": Specializing in cutting-edge tech stack technologies across diverse platforms.
 <br>$\color{orange}{\textsf{[2.]}}$ ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate containerized architectures</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, System Design and Development, Quality Assurance, Risk Assessment and Mitigation and Stakeholder Communication</b>
 <br>$\color{orange}{\textsf{[3.]}}$ 🎯 Leadership and Strategy: Expertise in team leadership, strategic planning, and execution.
@@ -22,7 +21,7 @@
 <br>$\color{orange}{\textsf{[18.]}}$ 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
 <br>$\color{orange}{\textsf{[19.]}}$ 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: <b>[ "Technical & Solution Architect", MERN & Full Stack [Node js, React js, Redux, Ember.js Vue js, Dot NET-Core, Ajax, Full Stack, Golang, Python, Java, Java-Script, jQuery, HTML, CSS], Blockchain- Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. "Cloud: AWS, Azure & CGP", "DevOps", Jira & Agile Development Methodologies, “React Native Mobile [Android & iOS]”, "Database [MongoDB, SQL, and MySQL], Testing Team [Selenium & Appium Android]", REST, gRPC, RabbitMQ, Kafka, AI/ML, ChatGPT, Payment Gateway: UPI, IMPS, PayTm & Gpay, E-mandate, & SOC 2, PCI, DSS, HIPAA, GDPR and RBI Guidelines. ]</b>
 
-<h1>$\color{orange}{\textsf{Architecture Component Layers:}}$</h1>
+# 💫 <h1>$\color{orange}{\textsf{Architecture Component Layers:}}$</h1>
 <ul>
 	<li> 🚀Component-Based Architecture</li>
 	<li>  📂File-Based Routing (Next.js)</li>
