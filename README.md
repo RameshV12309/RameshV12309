@@ -13,7 +13,7 @@
 <br>11. 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
 <br>12. 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: <b>[ "Technical & Solution Architect", MERN & Full Stack [Node js, React js, Redux, Ember.js Vue js, Dot NET-Core, Ajax, Full Stack, Golang, Python, Java, Java-Script, jQuery, HTML, CSS], Blockchain- Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. "Cloud: AWS, Azure & CGP", "DevOps", Jira & Agile Development Methodologies, “React Native Mobile [Android & iOS]”, "Database [MongoDB, SQL, and MySQL], Testing Team [Selenium & Appium Android]", REST, gRPC, RabbitMQ, Kafka, AI/ML, ChatGPT, Payment Gateway: UPI, IMPS, PayTm & Gpay, E-mandate, & SOC 2, PCI, DSS, HIPAA, GDPR and RBI Guidelines. ]</b><br>
 
-<h1> Architecture Component Layers</h1>
+<h1> Architecture Component Layers:</h1>
 <ul>
 	<li> 🚀Component-Based Architecture</li>
 	<li>  📂File-Based Routing (Next.js)</li>
@@ -67,49 +67,49 @@
  - 📝🔍Code Review and Test case Review Reports
  - 📊👀Daily Monitoring Reports
  - ✅📋Every Quality once complete Audit Reports
-
-    - 🔒🔐💻Data Security Architecture
-    - ⚙️📈High Availability and Scalability
-    - 💾🔄Backup and Recovery (BR)
-    - ⚠️💡Disaster Recovery (DR)
-    - 🔄💾DB Replica Set and Database Replication
-    - 🖥️🌐Bomain Hosting Infrastructure Layer
-    - 📝💻Test Case Architecture
-    - 🌐🔀⚙️Distribute Traffic across Multiple Instances of microservices
-    - 📊🔄🏗️Business Flow Architecture
-    - 💾📂🔐Data Storage and Management
-    - 🔄📡💬Orchestration and Messaging
-    - 🧩🔧Component-Based Architecture
-    - 📊🔍Monitoring and Logging
-    - 🔒💻Data Encryption
-    - 🛡️🔌API Protection
-    - ⚡💾Caching Layer
-    - 🚦⏱️Rate Limiting
-    - ⚠️🔧Fault Tolerance
-    - ⚙️📈Auto Scaling Databases
-    - 💾⚡Application Layer Caching
-    - 🌐🚀CDN - Content Delivery Network
-    - 🔧🔍Code Optimization & Code Review Layers
-    - 🛡️🔎Vulnerabilities - Regular scanning
-    - ⚖️Load Balancing Layer
-    - 🌐⚖️ALB - Application Load Balancer
-    - 🌐🔄⚖️GLB - Gateway Load Balancer
-    - 🌐⚡⚖️NLB - Network Load Balancer
-    - 📲🔔Alerts Layer
-    - 💸☁️Cloud Cost Optimization Layer
-    - ↔️🔧Horizontal Scaling
-    - ↕️🔧Vertical Scaling
-    - 🔄📈Auto Scaling
-    - 🔗🛠️Middleware and Integration Layer
-    - 💡⚙️Business Logic Layer
-    - 📊🔗Data Fetching and Integration Layer
-    - 🔐🔑Authentication and Authorization Architecture Layer
-    - 🌐💻Network Architecture Layer
-    - 📦📅Product Release Documentation Sprint wise
-    - 📝📊All kind of Test case and all the Staging Reports
-    - 💬🔧Slack Setup
-    - 🐙🔧Github Setup
-
+<ul>
+    <li> 🔒🔐💻Data Security Architecture</li>
+    <li> ⚙️📈High Availability and Scalability</li>
+    <li> 💾🔄Backup and Recovery (BR)</li>
+    <li> ⚠️💡Disaster Recovery (DR)</li>
+    <li> 🔄💾DB Replica Set and Database Replication</li>
+    <li> 🖥️🌐Bomain Hosting Infrastructure Layer</li>
+    <li> 📝💻Test Case Architecture</li>
+    <li> 🌐🔀⚙️Distribute Traffic across Multiple Instances of microservices</li>
+    <li> 📊🔄🏗️Business Flow Architecture</li>
+    <li> 💾📂🔐Data Storage and Management</li>
+    <li> 🔄📡💬Orchestration and Messaging</li>
+    <li> 🧩🔧Component-Based Architecture</li>
+    <li> 📊🔍Monitoring and Logging</li>
+    <li> 🔒💻Data Encryption</li>
+    <li> 🛡️🔌API Protection</li>
+    <li> ⚡💾Caching Layer</li>
+    <li> 🚦⏱️Rate Limiting</li>
+    <li> ⚠️🔧Fault Tolerance</li>
+    <li> ⚙️📈Auto Scaling Databases</li>
+    <li> 💾⚡Application Layer Caching</li>
+    <li> 🌐🚀CDN - Content Delivery Network</li>
+    <li> 🔧🔍Code Optimization & Code Review Layers</li>
+    <li> 🛡️🔎Vulnerabilities - Regular scanning</li>
+    <li> ⚖️Load Balancing Layer</li>
+    <li> 🌐⚖️ALB - Application Load Balancer</li>
+    <li> 🌐🔄⚖️GLB - Gateway Load Balancer</li>
+    <li> 🌐⚡⚖️NLB - Network Load Balancer</li>
+    <li> 📲🔔Alerts Layer</li>
+    <li> 💸☁️Cloud Cost Optimization Layer</li>
+    <li> ↔️🔧Horizontal Scaling</li>
+    <li> ↕️🔧Vertical Scaling</li>
+    <li> 🔄📈Auto Scaling</li>
+    <li> 🔗🛠️Middleware and Integration Layer</li>
+    <li> 💡⚙️Business Logic Layer</li>
+    <li> 📊🔗Data Fetching and Integration Layer</li>
+    <li> 🔐🔑Authentication and Authorization Architecture Layer</li>
+    <li> 🌐💻Network Architecture Layer</li>
+    <li> 📦📅Product Release Documentation Sprint wise</li>
+    <li> 📝📊All kind of Test case and all the Staging Reports</li>
+    <li> 💬🔧Slack Setup</li>
+    <li> 🐙🔧Github Setup</li>
+</ul>
 
 #<h1>Project Summary:</h1>
 <ul>
