@@ -372,6 +372,20 @@
 	<li>🗄️ AWS S3 File Storage Specialized</li>
 	<li>☁️ Cloud Computing 101</li>
 	<li>📚 AWS Educate: Getting Started with Databases</li>
+	<li>🧱 Simplilearn: Blockchain Developer Certificate</li>
+	<li>📂 Simplilearn: MongoDB</li>
+	<li>🖥️ Simplilearn: MERN Stack</li>
+	<li>☁️ Udemy: Master Course - Google Cloud Professional Cloud Architect
+	<ul><li>Project Management Institute:</li>
+ 	<li>🔐🛡️Cybersecurity Foundations</li> 
+	<li>📊💼Business Analysis Foundations</li> 
+	<li>⚡📋Agile Requirements Foundations</li> 
+	<li>📅📈Project Management Foundations</li> 
+	<li>🤝👥Teamwork Foundations</li> 
+	<li>⏰📅Time Management Fundamentals</li></ul></li>
+	<ul><li>Academy Europe Open University</li>
+ 	<li>💻🏗️Software Architecture Design Professional Certificate Program</li>
+	<li>👨‍💻🎓Software Engineering Professional Diploma Program</ul></li>
 </ul>
 
   
