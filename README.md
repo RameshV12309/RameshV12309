@@ -369,7 +369,7 @@
 	<li> Implementation of Blockchain and AI/ML</li>
 	<li> DevOps Architecture</li>
 	<li> Cloud, Application & DataBase Security Level Implementation</li>
-	<li> NOTE: Successfully worked on more than 10 products</li>
+	<li> <b>NOTE:</b> Successfully worked on more than 10 complex products</li>
 </ul>
 
 <h1>$\color{orange}{\textsf{Greatest Achievements:}}$</h1>
