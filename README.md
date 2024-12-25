@@ -354,6 +354,7 @@
   </table>
 
 <h1>$\color{orange}{\textsf{Certifications Details:}}$</h1>
+<h3>$\color{orange}{\textsf{I am “AWS Solutions Architect certified” and hold over 30 certifications additionally:}}$</h3>
 <ul>
 	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
 	<li>🛠️ AWS Well-Architected</li>
