@@ -114,21 +114,6 @@
 
 <h1>Cloud Mastery of Architecture Component Layers:</h1>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table, th {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
-th {
-  background-color: #96D4D4;
-}
-</style>
-</head>
-<body>
-	
 <table>
     <tr>
         <th>#</th>
@@ -359,8 +344,6 @@ th {
         <td>Azure Resource Manager (ARM Templates)</td>
       </tr>                                                                      
   </table>
- </body>
-</html> 
 
   
 <h1>Project Summary:</h1>
