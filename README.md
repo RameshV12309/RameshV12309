@@ -387,10 +387,10 @@
  	<li>💻🏗️Software Architecture Design Professional Certificate Program</li>
 	<li>👨‍💻🎓Software Engineering Professional Diploma Program</ul></li>
 	<p>If you want more certification details, click here: </p>
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)
+	
 </ul>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28919294) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)
 
 
   
