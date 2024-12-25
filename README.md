@@ -353,6 +353,26 @@
       </tr>                                                                      
   </table>
 
+<h1>$\color{orange}{\textsf{Certifications Details:}}$</h1>
+<ul>
+	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
+	<li>🛠️ AWS Well-Architected</li>
+	<li>🤖 AWS Machine Learning Foundations</li>
+	<li>📈 AWS Auto Scaling</li>
+	<li>🛡️ AWS Lambda Function Security</li>
+	<li>🔒 AWS Security Fundamentals</li>
+	<li>✨ AWS Generative AI</li>
+	<li>🌐 AWS Web Application Development Builder</li>
+	<li>🗂️ AWS Started S3 Storage</li>
+	<li>🔐 AWS Security</li>
+	<li>⚡ AWS Serverless</li>
+	<li>🐳 AWS EKS</li>
+	<li>💾 AWS Data Protection & Disaster Recovery Specialized</li>
+	<li>🗄️ AWS S3 File Storage Specialized</li>
+	<li>☁️ Cloud Computing 101</li>
+	<li>📚 AWS Educate: Getting Started with Databases</li>
+</ul>
+
   
 <h1>$\color{orange}{\textsf{Project Summary:}}$</h1>
 <ul>
