@@ -7,7 +7,7 @@
 <br>$\color{red}{\textsf{[6.]}}$ 🚀 Performance Optimization: Enhanced system and process performance through innovative solutions.
 <br>$\color{red}{\textsf{[7.]}}$ 💡 Innovation and Problem Solving: Creative thinker with a knack for solving complex challenges.
 <br>$\color{red}{\textsf{[8.]}}$ ⏱️ Timely Product Delivery: Successfully delivered products on time by leveraging AI/ML and ChatGPT concepts where necessary.
-<br>$\color{red}{\textsf{[9.]}}$ 🌟 Startup Expertise: Successfully set up end-to-end solutions for startup-level organizations
+<br>$\color{red}{\textsf{[9.]}}$ 🌟 $\color{orange}{\textsf{Master of Startup Expertise:}}$ Successfully implemented end-to-end solutions for startup-level organizations
 <br>$\color{red}{\textsf{[10.]}}$ 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, Docker & Kubernetes, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
 <br>$\color{red}{\textsf{[11.]}}$ 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
 <br>$\color{red}{\textsf{[12.]}}$ 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
