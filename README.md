@@ -121,7 +121,7 @@ $\color{orange}{\textsf{[I.]}}$ I am an IT professional with 18+ years of experi
     <li> 🐙🔧Github Setup</li>
 </ul>
 
-<h1>$\color{orange}{\textsf{Cloud Mastery of Architecture Component Layers:}}$</h1>
+# 💫 $\color{orange}{\textsf{Cloud Mastery of Architecture Component Layers:}}$
 
 <table>
     <tr>
@@ -354,7 +354,7 @@ $\color{orange}{\textsf{[I.]}}$ I am an IT professional with 18+ years of experi
       </tr>                                                                      
   </table>
 
-<h1>$\color{orange}{\textsf{Certifications Details:}}$</h1>
+# 💫 $\color{orange}{\textsf{Certifications Details:}}$
 <h3>$\color{orange}{\textsf{I am “AWS Solutions Architect certified” and hold over 30 certifications additionally:}}$</h3>
 <ul>
 	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
@@ -394,7 +394,7 @@ $\color{orange}{\textsf{[I.]}}$ I am an IT professional with 18+ years of experi
 
 
   
-<h1>$\color{orange}{\textsf{Project Summary:}}$</h1>
+# 💫 $\color{orange}{\textsf{Project Summary:}}$
 <ul>
 	<li> Experience in Designing and Implementing Microservices-Based Architecture for Enterprise Architecture</li>
 	<li> Banking-NBFC-FinTech Product Domain: Based Architecture</li>
@@ -412,7 +412,7 @@ $\color{orange}{\textsf{[I.]}}$ I am an IT professional with 18+ years of experi
 	<li> <b>NOTE:</b> Successfully worked on more than 10 complex products</li>
 </ul>
 
-<h1>$\color{orange}{\textsf{Greatest Achievements:}}$</h1>
+# 💫 $\color{orange}{\textsf{Greatest Achievements:}}$
 <ul>
     <li>Best Performer Award: Received the Best Performer Award for outstanding contributions during tenure.</li> 
     <li>Successful Re-Architecture: Successfully completed re-architecture of Cloud Platforms, MERN Stack, DevOps, Mobile, Database, and Jira</li>
