@@ -1,14 +1,14 @@
 # 💫 About Me: RAMESH V    [Technical Architect: NBFC-FinTech]
 <br>1. 🚀Technical Architect specializing in modern tech stack technologies across diverse platforms.
-<br>2. ☁️Cloud Mastery: Expertise in AWS, Azure, and GCP, including serverless solutions like Lambda, Fargate, and containerized architectures.
-<br>3. 🔧DevOps Proficiency: Skilled in CI/CD pipelines, infrastructure automation with tools like Terraform and CloudFormation, and ensuring seamless deployments.
+<br>2. ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions like <b>Lambda, Fargate, and containerized architectures</b>.
+<br>3. 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
 <br>4. 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
-<br>5. 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational AI tools like ChatGPT, Amazon Rekognition, and Amazon SageMaker.
+<br>5. 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
 <br>6. 📱Proficient in mobile app development for Android and iOS, leveraging tools like React Native and Appium for cross-platform and automated testing.
-<br>7. 🔒Security Standards Expertise: Skilled in implementing and maintaining compliance with SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines.
+<br>7. 🔒Security Standards Expertise: Skilled in implementing and maintaining compliance with <b>SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines</b>.
 <br>8. 💳Master of extensive knowledge in Payment Gateway Integration, including...<br>
-&nbsp;&nbsp;⇥1.  🏦UPI, 🔄IMPS, 📲PhonePe, 💼PayTm, 🌐GPay, and 📝E-Mandate Process.
-<br>9. 🛠Blockchain Savvy: Comprehensive understanding of Blockchain Technologies, including Smart Contracts, DeFi, Crypto Exchanges, and secure wallet development.
+&nbsp;&nbsp;&nbsp;⇥.  🏦UPI, 🔄IMPS, 📲PhonePe, 💼PayTm, 🌐GPay, and 📝E-Mandate Process.
+<br>9. 🛠Blockchain Savvy: Comprehensive understanding of <b>Blockchain Technologies</b>, including Smart Contracts, DeFi, <b>Crypto Exchanges</b>, and secure wallet development.
 <br>10. 🧪Experienced in testing frameworks like Selenium and Appium, ensuring high-quality software delivery.
 <br>11. 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
 <br>12. 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: [React.js, Next.js, Node.js, Express.js, Component-Based Architecture and File-Based Routing, API Integration, State Management (Redux, Context API) and Performance Optimization and Error Handling]<br>
