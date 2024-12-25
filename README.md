@@ -13,7 +13,7 @@
 <br>11. 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
 <br>12. 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: <b>[ "Technical & Solution Architect", MERN & Full Stack [Node js, React js, Redux, Ember.js Vue js, Dot NET-Core, Ajax, Full Stack, Golang, Python, Java, Java-Script, jQuery, HTML, CSS], Blockchain- Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. "Cloud: AWS, Azure & CGP", "DevOps", Jira & Agile Development Methodologies, “React Native Mobile [Android & iOS]”, "Database [MongoDB, SQL, and MySQL], Testing Team [Selenium & Appium Android]", REST, gRPC, RabbitMQ, Kafka, AI/ML, ChatGPT, Payment Gateway: UPI, IMPS, PayTm & Gpay, E-mandate, & SOC 2, PCI, DSS, HIPAA, GDPR and RBI Guidelines. ]</b>
 
-<h1> Architecture Component Layers:</h1>
+<h1>$\color{red}{\textsf{Architecture Component Layers:}}$</h1>
 <ul>
 	<li> 🚀Component-Based Architecture</li>
 	<li>  📂File-Based Routing (Next.js)</li>
@@ -111,7 +111,7 @@
     <li> 🐙🔧Github Setup</li>
 </ul>
 
-<h1>Cloud Mastery of Architecture Component Layers:</h1>
+<h1>$\color{red}{\textsf{Cloud Mastery of Architecture Component Layers:}}$</h1>
 
 <table>
     <tr>
@@ -345,7 +345,7 @@
   </table>
 
   
-<h1>Project Summary:</h1>
+<h1>$\color{red}{\textsf{Project Summary:}}$</h1>
 <ul>
 	<li> Experience in Designing and Implementing Microservices-Based Architecture for Enterprise Architecture</li>
 	<li> Banking-NBFC-FinTech Product Domain: Based Architecture</li>
