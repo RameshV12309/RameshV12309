@@ -1,5 +1,6 @@
 # 💫 About Me: RAMESH V    [Technical Architect: NBFC-FinTech]
 
+<p>$\color{lightblue}{\textsf{Light Blue}}$</p>
 <br>1. 🚀Technical Architect specializing in modern tech stack technologies across diverse platforms.
 <br>2. ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, and containerized architectures</b>
 <br>3. 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
@@ -116,10 +117,10 @@
 
 <table>
     <tr>
-        <th>$\color{lightblue}{\textsf{#}}$</th>
-        <th>$\color{lightblue}{\textsf{AWS Service}}$</th>
-        <th>$\color{lightblue}{\textsf{GCP Service}}$</th>
-        <th>$\color{lightblue}{\textsf{Azure Service}}$</th>
+        <th>#</th>
+        <th>AWS Service</th>
+        <th>GCP Service</th>
+        <th>Azure Service</th>
     </tr>
     <tr>
       <td>1</td>
