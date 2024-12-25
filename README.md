@@ -1,5 +1,5 @@
 # 💫 $\color{orange}{\textsf{About Me: RAMESH V    [Technical Architect: NBFC-FinTech]}}$
-<br>1. 🚀Master of Modern "Technical Architecture": Specializing in cutting-edge tech stack technologies across diverse platforms.
+<br>$\color{red}{\textsf{[1.]}}$ 🚀Master of Modern "Technical Architecture": Specializing in cutting-edge tech stack technologies across diverse platforms.
 <br>2. ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, and containerized architectures</b>
 <br>3. 🎯 Leadership and Strategy: Expertise in team leadership, strategic planning, and execution.
 <br>4. 🤝 Team Management: Skilled in managing and mentoring diverse teams.
