@@ -1,7 +1,7 @@
 # 💫 About Me: RAMESH V    [Technical Architect: NBFC-FinTech]
 
 <br>1. 🚀Technical Architect specializing in modern tech stack technologies across diverse platforms.
-<br>2. ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions like <b>Lambda, Fargate, Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management and containerized architectures</b>
+<br>2. ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, and containerized architectures</b>
 <br>3. 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
 <br>4. 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
 <br>5. 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
@@ -112,7 +112,29 @@
     <li> 🐙🔧Github Setup</li>
 </ul>
 
-#<h1>Project Summary:</h1>
+<h1>Cloud Mastery of Architecture Component Layers:</h1>
+<table>
+    <tr>
+        <th>#</th>
+        <th>AWS Service</th>
+        <th>GCP Service</th>
+        <th>Azure Service</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>Amazon EC2 (Elastic Compute Cloud)</td>
+      <td>Google Compute Engine</td>
+      <td>Azure Virtual Machines</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>AWS Lambda</td>
+        <td>Google Cloud Functions</td>
+        <td>Azure Functions</td>
+      </tr>
+  </table>
+
+<h1>Project Summary:</h1>
 <ul>
 	<li> Experience in Designing and Implementing Microservices-Based Architecture for Enterprise Architecture</li>
 	<li> Banking-NBFC-FinTech Product Domain: Based Architecture</li>
