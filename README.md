@@ -108,20 +108,21 @@
 
 
 #<h1>PROJECT SUMMARY:</h1>
-<p>1. Experience in Designing and Implementing Microservices-Based Architecture for Enterprise Applications.</p>
-<p>2. Banking-NBFC-FinTech Product Domain: Based Architecture</p>
-<p>3. Health Care Product Based Architecture</p>
-<p>4. Product Application Migration Architecture</p>
-<p>5. Database Migration: using ETL and Complete Database Architecture</p>
-<p>6. Cloud Migration and Implementation [AWS, Azure & CGP]</p> 
-<p>7. Mobile Architecture for Android & iOS</p>
-<p>8. Migration from Server to Serverless and Vice Versa</p>
-<p>9. Consultancy as a Technical Architect</p>
-<p>10. Implementation of Blockchain and AI/ML</p>
-<p>11. DevOps Architecture</p>
-<p>12. Cloud, Application & DataBase Security Level Implementation</p>
-<p>13. NOTE: Successfully worked on more than 10 products</p>
-
+<ul>
+	<li> Experience in Designing and Implementing Microservices-Based Architecture for Enterprise Applications.</li>
+	<li> Banking-NBFC-FinTech Product Domain: Based Architecture</li>
+	<li> Health Care Product Based Architecture</li>
+	<li> Product Application Migration Architecture</li>
+	<li> Database Migration: using ETL and Complete Database Architecture</li>
+	<li> Cloud Migration and Implementation [AWS, Azure & CGP]</li>
+	<li> Mobile Architecture for Android & iOS</li>
+	<li> Migration from Server to Serverless and Vice Versa</li>
+	<li> Consultancy as a Technical Architect</li>
+	<li> Implementation of Blockchain and AI/ML</li>
+	<li> DevOps Architecture</li>
+	<li> Cloud, Application & DataBase Security Level Implementation</li>
+	<li> NOTE: Successfully worked on more than 10 products</li>
+</ul>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RameshV12309&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
