@@ -7,7 +7,7 @@
 <br>6. 📱Proficient in mobile app development for Android and iOS, leveraging tools like React Native and Appium for cross-platform and automated testing.
 <br>7. 🔒Security Standards Expertise: Skilled in implementing and maintaining compliance with SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines.
 <br>8. 💳Master of extensive knowledge in Payment Gateway Integration, including...<br>
-⇥1.  🏦UPI, 🔄IMPS, 📲PhonePe, 💼PayTm, 🌐GPay, and 📝E-Mandate Process.
+&nbsp;&nbsp;⇥1.  🏦UPI, 🔄IMPS, 📲PhonePe, 💼PayTm, 🌐GPay, and 📝E-Mandate Process.
 <br>9. 🛠Blockchain Savvy: Comprehensive understanding of Blockchain Technologies, including Smart Contracts, DeFi, Crypto Exchanges, and secure wallet development.
 <br>10. 🧪Experienced in testing frameworks like Selenium and Appium, ensuring high-quality software delivery.
 <br>11. 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
