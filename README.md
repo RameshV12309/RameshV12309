@@ -115,7 +115,7 @@
 
 <table>
     <tr>
-        <th>$\color{orange}{\textsf{#}}$</th>
+        <th>$\color{orange}{\textsf{No.}}$</th>
         <th>$\color{orange}{\textsf{AWS Service}}$</th>
         <th>$\color{orange}{\textsf{GCP Service}}$</th>
         <th>$\color{orange}{\textsf{Azure Service}}$</th>
