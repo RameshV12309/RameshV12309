@@ -356,7 +356,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
 # 💫 $\color{orange}{\textsf{Certifications Details:}}$
 <h3>$\color{orange}{\textsf{I am “AWS Solutions Architect Certified” 🛠️🎓 and hold over 30 certifications additionally 🎖️📜:}}$</h3>
 <ul>
-	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
+	<li>🏗️ AWS Certified Solutions Architect – Associate <a href="https://www.credly.com/badges/b28a263a-3cb3-4d00-8bf3-2282dd42b54b">credly</a></li>
 	<li>🛠️ AWS Well-Architected</li>
 	<li>🤖 AWS Machine Learning Foundations</li>
 	<li>📈 AWS Auto Scaling</li>
