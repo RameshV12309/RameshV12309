@@ -356,7 +356,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
 # 💫 $\color{orange}{\textsf{Certifications Details:}}$
 <h3>$\color{orange}{\textsf{I am “AWS Solutions Architect Certified” 🛠️🎓 and hold over 30 certifications additionally 🎖️📜:}}$</h3>
 <ul>
-	<li>🏗️ AWS Certified Solutions Architect – Associate <a href="https://www.credly.com/badges/b28a263a-3cb3-4d00-8bf3-2282dd42b54b">credly</a></li>
+	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
 	<li>🛠️ AWS Well-Architected</li>
 	<li>🤖 AWS Machine Learning Foundations</li>
 	<li>📈 AWS Auto Scaling</li>
@@ -387,7 +387,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
  	<li>💻🏗️Software Architecture Design Professional Certificate Program</li>
 	<li>👨‍💻🎓Software Engineering Professional Diploma Program</ul></li>
 </ul>
-<p>$\color{orange}{\textsf{If you want more Certification Details, Click below Linkedin link:}}$</p>
+<p>$\color{orange}{\textsf{If you want more Certification Details, Click below 👇 Linkedin link ore here 👉:}}$ <a href="https://www.linkedin.com/in/ramesh-v-0a125530/">LinkedIn</a></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)
 
