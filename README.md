@@ -4,14 +4,14 @@ $\color{orange}{\textsf{[=>]}}$ I am an IT professional with <b>18+ years of exp
 <br>$\color{orange}{\textsf{[2.]}}$ ☁️Cloud Mastery: Expertise in <b>AWS, Azure, and GCP</b>, including serverless solutions such as <b>Lambda and Fargate containerized architectures</b>. Skilled in <b>Business Process Automation, Marketing Strategy, Process Optimization, Business Process Re-engineering, Business Planning, Agile Methodologies, Project Management, System Design and Development, Quality Assurance, Risk Assessment and Mitigation and Stakeholder Communication</b>
 <br>$\color{orange}{\textsf{[3.]}}$ 🎯 Leadership and Strategy: Expertise in team leadership, strategic planning, and execution.
 <br>$\color{orange}{\textsf{[4.]}}$ 🤝 Team Management: Skilled in managing and mentoring diverse teams.
-<br>$\color{orange}{\textsf{[5.]}}$ 💰 Cost Optimization: Proven track record of reducing expenses while maintaining efficiency.
+<br>$\color{orange}{\textsf{[5.]}}$ 💰 Code and Cost Optimization: Proven track record of reducing expenses while maintaining efficiency.
 <br>$\color{orange}{\textsf{[6.]}}$ 🚀 Performance Optimization: Enhanced system and process performance through innovative solutions.
 <br>$\color{orange}{\textsf{[7.]}}$ 💡 Innovation and Problem Solving: Creative thinker with a knack for solving complex challenges.
 <br>$\color{orange}{\textsf{[8.]}}$ ⏱️ Timely Product Delivery: Successfully delivered products on time by leveraging AI/ML and ChatGPT concepts where necessary.
 <br>$\color{orange}{\textsf{[9.]}}$ 🌟 $\color{orange}{\textsf{Master of Startup Expertise:}}$ Successfully implemented end-to-end solutions for startup-level organizations
 <br>$\color{orange}{\textsf{[10.]}}$ 🔧DevOps Proficiency: Skilled in <b>CI/CD pipelines, Docker & Kubernetes, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
 <br>$\color{orange}{\textsf{[11.]}}$ 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
-<br>$\color{orange}{\textsf{[12.]}}$ 💡AI/ML Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
+<br>$\color{orange}{\textsf{[12.]}}$ 💡AI/ML and ChatGPT Expertise: Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
 <br>$\color{orange}{\textsf{[13.]}}$ 📱Proficient in mobile app development for <b>Android and iOS</b>, leveraging tools like React Native and Appium for cross-platform and automated testing.
 <br>$\color{orange}{\textsf{[14.]}}$ 🔒Security Standards Expertise: Skilled in implementing and maintaining compliance with <b>SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines</b>.
 <br>$\color{orange}{\textsf{[15.]}}$ 💳Master of extensive knowledge in <b>Payment Gateway</b> Integration, including...<br>
