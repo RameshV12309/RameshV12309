@@ -387,7 +387,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
  	<li>💻🏗️Software Architecture Design Professional Certificate Program</li>
 	<li>👨‍💻🎓Software Engineering Professional Diploma Program</ul></li>
 </ul>
-<p>$\color{orange}{\textsf{If you want more Certification Details, Click below 👇 Linkedin link ore here 👉:}}$ <a href="https://www.linkedin.com/in/ramesh-v-0a125530/">LinkedIn</a></p>
+<p>$\color{orange}{\textsf{If you want more Certification Details, Click below 👇 Linkedin link OR here 👉:}}$ <a href="https://www.linkedin.com/in/ramesh-v-0a125530/">LinkedIn</a></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramesh-v-0a125530)
 
