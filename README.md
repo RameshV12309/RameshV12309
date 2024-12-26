@@ -10,7 +10,7 @@ $\color{orange}{\textsf{[=>]}}$ I am an IT professional with <b>18+ years of exp
 <br>$\color{orange}{\textsf{[8.]}}$ ⏱️ $\color{orange}{\textsf{Timely Product Delivery:}}$ Successfully delivered products on time by leveraging AI/ML and ChatGPT concepts where necessary.
 <br>$\color{orange}{\textsf{[9.]}}$ 🌟 $\color{orange}{\textsf{Master of Startup Expertise:}}$ Successfully implemented end-to-end solutions for startup-level organizations
 <br>$\color{orange}{\textsf{[10.]}}$ 🔧 $\color{orange}{\textsf{DevOps Proficiency:}}$ Skilled in <b>CI/CD pipelines, Docker & Kubernetes, infrastructure automation with tools like Terraform and CloudFormation</b>, and ensuring seamless deployments.
-<br>$\color{orange}{\textsf{[11.]}}$ 🌟Strong focus on Microservices Architecture for scalable, maintainable, and distributed systems.
+<br>$\color{orange}{\textsf{[11.]}}$ 🌟 $\color{orange}{\textsf{Microservices Architecture:}}$ Expertise in designing scalable, maintainable, and distributed systems with a strong focus on Microservices Architecture
 <br>$\color{orange}{\textsf{[12.]}}$ 💡 $\color{orange}{\textsf{AI/ML and ChatGPT Expertise:}}$ Hands-on experience with Machine Learning models and conversational <b>AI/ML tools like ChatGPT</b>, Amazon Rekognition, and Amazon SageMaker.
 <br>$\color{orange}{\textsf{[13.]}}$ 📱Proficient in mobile app development for <b>Android and iOS</b>, leveraging tools like React Native and Appium for cross-platform and automated testing.
 <br>$\color{orange}{\textsf{[14.]}}$ 🔒 $\color{orange}{\textsf{Security Standards Expertise:}}$ Skilled in implementing and maintaining compliance with <b>SOC 2, PCI DSS, HIPAA, GDPR, and RBI Guidelines</b>.
