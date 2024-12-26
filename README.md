@@ -20,7 +20,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
 <br>$\color{orange}{\textsf{[19.]}}$ 🗄️Expertise in Database Architecture and management for both SQL and NoSQL systems, ensuring scalability, replication, and performance optimization.
 <br>$\color{orange}{\textsf{[20.]}}$ 🌟Proficient in front-end and back-end development with modern frameworks and technologies, including: <b>[ "Technical & Solution Architect", MERN & Full Stack [Node js, React js, Redux, Ember.js Vue js, Dot NET-Core, Ajax, Full Stack, Golang, Python, Java, Java-Script, jQuery, HTML, CSS], Blockchain- Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. "Cloud: AWS, Azure & CGP", "DevOps", Jira & Agile Development Methodologies, “React Native Mobile [Android & iOS]”, "Database [MongoDB, SQL, and MySQL], Testing Team [Selenium & Appium Android]", REST, gRPC, RabbitMQ, Kafka, AI/ML, ChatGPT, Payment Gateway: UPI, IMPS, PayTm & Gpay, E-mandate, & SOC 2, PCI, DSS, HIPAA, GDPR and RBI Guidelines. ]</b>
 
-# 💫 $\color{orange}{\textsf{Good Hands-on-Experience Tech Stack Architect components / Layers:}}$
+# 💫 $\color{orange}{\textsf{Good Hands-on-Experience Tech Stack Architect components/Layers:}}$
 <ul>
 	<li> 🚀Component-Based Architecture</li>
 	<li>  📂File-Based Routing (Next.js)</li>
