@@ -354,7 +354,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
   </table>
 
 # 💫 $\color{orange}{\textsf{Certifications Details:}}$
-<h3>$\color{orange}{\textsf{I am “AWS Solutions Architect certified” and hold over 30 certifications additionally:}}$</h3>
+<h3>$\color{orange}{\textsf{I am “AWS Solutions Architect certified” 🛠️🎓 and hold over 30 certifications additionally 🎖️📜:}}$</h3>
 <ul>
 	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
 	<li>🛠️ AWS Well-Architected</li>
