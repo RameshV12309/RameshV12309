@@ -120,7 +120,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on Exper
     <li> 🐙🔧Github Setup</li>
 </ul>
 
-# 💫 $\color{orange}{\textsf{Cloud Mastery of Architecture Component Layers:}}$
+# 💫 $\color{orange}{\textsf{Good Hands-on Experience Cloud Architect Component Layers:}}$
 
 <table>
     <tr>
