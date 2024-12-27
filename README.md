@@ -52,7 +52,7 @@ $\color{orange}{\textsf{[1.]}}$ 🚀 $\color{orange}{\textsf{Good Hands-on-Exper
 	<li> 📊📈Analytics and Reporting Layer</li>
 </ul>
 
-<p>$\color{orange}{\textsf{[20. ]}}$ - 📄✅BRD (Business Requirements Document) with complete use cases.
+<p>$\color{orange}{\textsf{[21. ]}}$ - 📄✅BRD (Business Requirements Document) with complete use cases.
  - 🏛️🔄BRD Business Flow Architecture
  - 📚🔧Complete Technical Architecture Master Documentation
  - ☁️⚡Back-End AWS Lambda Serverless Event-Driven Architecture
