@@ -41,7 +41,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 	<li> ☁️💻Serverless & Server Architecture Layer</li>
 	<li> 🧩🔧Microservices Framework Layer</li>
 	<li> 🔄📡Event-Driven Model Architecture Layer</li>
-	<li> 🤖📊AI/ML Integration Architecture Layer</li>
+	<li> 🤖📊AI/ML, Generative AI, Natural Language Processing (NLP) & Large Language Models (LLMs) - Integration Architecture Layer</li>
 	<li> ⚙️📬Orchestration and Messaging Layer</li>
 	<li> 💼🧠Business Logic Layer</li>
 	<li> 🌐📴Offline Support Layer</li>
