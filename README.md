@@ -405,7 +405,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 	<li> Mobile Architecture for Android & iOS</li>
 	<li> Migration from Server to Serverless and Vice Versa</li>
 	<li> Consultancy as a Technical Architect</li>
-	<li> Implementation of Blockchain and AI/ML</li>
+	<li> Implementation of Blockchain and AI/ML - Generative AI, Natural Language Processing (NLP) & Large Language Models (LLMs)</li>
 	<li> DevOps Architecture</li>
 	<li> Cloud, Application & DataBase Security Level Implementation</li>
 	<li> <b>NOTE:</b> Successfully worked on more than 10 complex products</li>
