@@ -64,6 +64,30 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
 
 # 💫 ⚙️ $\color{orange}{\textsf{Good Hands-on-Experience Tech Stack Architect components/Layers:}}$
 <ul>
+	 <li>📄✅BRD (Business Requirements Document) along complete use cases.</li>
+	 <li> 🏛️🔄BRD Business Flow-Diagram Architecture</li>
+	 <li> 📚🔧Complete Technical Architecture Master Documentation</li>
+	 <li> ☁️⚡Back-End AWS Lambda Serverless Event-Driven Architecture</li>
+	<li> ☁️⚡Back-End Server Architecture</li>
+	 <li> 💻🎨Front-End Architecture</li>
+	 <li> 🗄️🔑Database Architecture</li>
+	 <li> ☁️🌐Cloud Architecture: AWS, GCP & Azure</li>
+	 <li> 📱⚙️Mobile App Architecture</li>
+	 <li> 🔄🚀DevOps: CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform Architecture</li>
+	 <li> 🌐🏗️Website Architecture</li>
+	 <li> 🎨📑UI/UX Design Architecture</li>
+	 <li> ☁️🔧Complete [AWS, GCP & Azure] Cloud Infrastructure Architecture Layer</li>
+	 <li> ☁️💾Complete Cloud Database Infrastructure Architecture Layer</li>
+	 <li> 🔧🚀Complete DevOps Infrastructure Architecture Layer</li>
+	 <li> 📊💰Complete AWS Cloud Infrastructure Forecast pricing details</li>
+	 <li> 📉💵Complete Database Infrastructure Forecast pricing details</li>
+	 <li> 🚧🔧Staging Deployment Infrastructure Architecture</li>
+	 <li> 📚📑Complate Master Architecture documenation</li>
+	 <li> 🧩💡Design Pattern or Software Design Architecture</li>
+	 <li> 🛠️📋JIRA Ticket Handling Infrastructure Setup Architecture</li>
+	 <li> 📝🔍Code Review and Test case Review Reports</li>
+	 <li> 📊👀Daily Monitoring Reports</li>
+	 <li> ✅📋Every Quality once complete Audit Reports</li>
 	<li> 🚀Component-Based Architecture</li>
 	<li>  📂File-Based Routing (Next.js)</li>
 	<li>  ⚙️State Management Layer</li>
@@ -92,30 +116,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
 	<li> 🌐🔄High Availability and Scalability Layer</li>
 	<li> 💾🔄Backup and Recovery Layer</li>
 	<li> 📊📈Analytics and Reporting Layer</li>
- <li>📄✅BRD (Business Requirements Document) with complete use cases.</li>
- <li> 🏛️🔄BRD Business Flow Architecture</li>
- <li> 📚🔧Complete Technical Architecture Master Documentation</li>
- <li> ☁️⚡Back-End AWS Lambda Serverless Event-Driven Architecture</li>
- <li> 💻🎨Front-End Architecture</li>
- <li> 🗄️🔑Database Architecture</li>
- <li> ☁️🌐AWS Cloud Architecture</li>
- <li> 📱⚙️Mobile App Architecture</li>
- <li> 🔄🚀CI-CD Architecture</li>
- <li> 🌐🏗️Website Architecture</li>
- <li> 🎨📑UI Design Document</li>
- <li> ☁️🔧Complete AWS Cloud Infrastructure Architecture Layer</li>
- <li> ☁️💾Complete Cloud Database Infrastructure Architecture Layer</li>
- <li> 🔧🚀Complete DevOps Infrastructure Architecture Layer</li>
- <li> 📊💰Complete AWS Cloud Infrastructure Forecast pricing details</li>
- <li> 📉💵Complete Database Infrastructure Forecast pricing details</li>
- <li> 🚧🔧Staging Deployment Infrastructure Architecture</li>
- <li> 📚📑Complate Master Architecture documenation</li>
- <li> 🧩💡Design Pattern or Software Design Architecture</li>
- <li> 🛠️📋JIRA Ticket Handling Infrastructure Setup Architecture</li>
- <li> 📝🔍Code Review and Test case Review Reports</li>
- <li> 📊👀Daily Monitoring Reports</li>
- <li> ✅📋Every Quality once complete Audit Reports</li>
-</ul>
+ </ul>
 
 <ul>
     <li> 🔒🔐💻Data Security Architecture</li>
