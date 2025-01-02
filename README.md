@@ -162,7 +162,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
     <li> 🐙🔧Github Setup</li>
 </ul>
 
-# 💫 $\color{orange}{\textsf{Good Hands-on-Experience Cloud Architect Services Layers:}}$
+# 💫 ⚙️ $\color{orange}{\textsf{Good Hands-on-Experience Cloud Architect Services Layers:}}$
 
 <table>
     <tr>
@@ -395,7 +395,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
       </tr>                                                                      
   </table>
 
-# 💫 $\color{orange}{\textsf{Certifications Details:}}$
+# 💫 📜 $\color{orange}{\textsf{Certifications Details:}}$
 <h3>$\color{orange}{\textsf{I am “AWS Solutions Architect Certified” 🛠️🎓 and hold over 30 certifications additionally 🎖️📜:}}$</h3>
 <ul>
 	<li>🏗️ AWS Certified Solutions Architect – Associate</li>
