@@ -9,7 +9,7 @@ Tech Stack: Technical & Solution Architect
     <li>⚙️ DevOps</li>
     <li>📋 Jira & Agile Development Methodologies</li>
     <li>📱 React Native Mobile [Android & iOS]</li>
-    <li>🗂️ Database [MongoDB, SQL, MySQL]</li>
+    <li>🗂️ Database: MongoDB, Mongoose, SQL, MySQL, SQLite (SQL), Redis (NoSQL, key-value store), PostgreSQL (SQL), Firebase Realtime Database (NoSQL), and Elasticsearch (Search and Analytics Engine)</li>
     <li>🧪 Testing Team [Selenium & Appium Android]</li>
     <li>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</li>
     <li>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</li>
