@@ -12,7 +12,7 @@ Tech Stack: Technical & Solution Architect
     <li>🗂️ Database [MongoDB, SQL, MySQL]</li>
     <li>🧪 Testing Team [Selenium & Appium Android]</li>
     <li>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</li>
-    <li>🤖 AI/ML, ChatGPT</li>
+    <li>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</li>
     <li>💳 Payment Gateway: UPI, IMPS, Gpay, Cashfree, PhonePe, PayTm &, e-Mandate</li>
     <li>🔒 SOC 2, PCI, DSS, HIPAA, GDPR, RBI Guidelines</li>
 </ul>
