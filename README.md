@@ -17,8 +17,9 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li>🔒 RBI Guidelines: SOC 2, PCI, DSS, HIPAA, GDPR</li>
     <li>🔒 Security: Front-End, Back-End, Mobile APP, API's</li>
     <li>🔒 Security: Cloud=> AWS, Azure & GCP</li>
-    <li>🔒 Security: DevOps</li>
-    <li>🔒 Security: Database</li>	
+    <li>🔒 Security: DevOps and Cybersecurity</li>
+    <li>🔒 Security: Database</li>
+    <li>Domain Exports: Banking-NBFC-FinTech, Health Care, Cloud, E-commerce & Chatbot. Enterprise Solutions: ERP Systems & CRM Systems </li>	
 </ul>
 
 $\color{orange}{\textsf{[2.]}}$ ☁️ $\color{orange}{\textsf{Good Hands-on-Experience with Cloud:}}$ I have expertise in <b>AWS 🟠, Azure 🔵, and GCP 🟡</b>, including <b>Serverless solutions like Lambda ⚡ and Containerized Architectures with Fargate 📦</b>. I am skilled in Business Process Automation 🤖, Marketing Strategy 📈, Process Optimization 🔄, Business Process Re-engineering 🛠️, Business Planning 🗂️, Agile Methodologies 🏃, Project Management 📋, System Design and Development 🖥️, Quality Assurance ✅, Risk Assessment and Mitigation ⚠️, and Stakeholder Communication 🗣️.<br>
