@@ -66,7 +66,6 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
 <ul>
 	 <li>📄✅BRD (Business Requirements Document) along complete use cases.</li>
 	 <li> 🏛️🔄BRD Business Flow-Diagram Architecture</li>
-	 <li> 📚🔧Complete Technical Architecture Master Documentation</li>
 	 <li> ☁️⚡Back-End AWS Lambda Serverless Event-Driven Architecture</li>
 	<li> ☁️⚡Back-End Server Architecture</li>
 	 <li> 💻🎨Front-End Architecture</li>
@@ -82,7 +81,6 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
 	 <li> 📊💰Complete AWS Cloud Infrastructure Forecast pricing details</li>
 	 <li> 📉💵Complete Database Infrastructure Forecast pricing details</li>
 	 <li> 🚧🔧Staging Deployment Infrastructure Architecture</li>
-	 <li> 📚📑Complate Master Architecture documenation</li>
 	 <li> 🧩💡Design Pattern or Software Design Architecture</li>
 	 <li> 🛠️📋JIRA Ticket Handling Infrastructure Setup Architecture</li>
 	 <li> 📝🔍Code Review and Test case Review Reports</li>
@@ -159,6 +157,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
     <li> 📝📊All kind of Test case and all the Staging Reports</li>
     <li> 💬🔧Slack Setup</li>
     <li> 🐙🔧Github Setup</li>
+    <li> 📚🔧Complete Product Technical Architecture Master Documentation one place</li>
 </ul>
 
 # 💫 ⚙️ $\color{orange}{\textsf{Good Hands-on-Experience Cloud Architect Services Layers:}}$
