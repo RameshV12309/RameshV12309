@@ -3,7 +3,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 
 <p>$\color{orange}{\textsf{Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
-    <li>💻 MERN & Full Stack: [Node.js, React.js, Redux, Ember.js, Vue.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</li>
+    <li><b>💻 MERN & Full Stack: [Node.js, React.js, Redux, Ember.js, Vue.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
     <li>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</li>
     <li>☁️ Cloud: AWS, Azure & GCP</li>
     <li>⚙️ DevOps: [CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform]</li>
