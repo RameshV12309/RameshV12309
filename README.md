@@ -14,7 +14,11 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</li>
     <li>💳 Payment Gateway: UPI, IMPS, Gpay, Cashfree, PhonePe, PayTm &, e-Mandate</li>
     <li>🔍 KYC [Complete Automation using Generative AI/ML]</li>	
-    <li>🔒 SOC 2, PCI, DSS, HIPAA, GDPR, RBI Guidelines</li>
+    <li>🔒 RBI Guidelines: SOC 2, PCI, DSS, HIPAA, GDPR</li>
+    <li>🔒 Security: Front-End, Back-End, Mobile APP, API's</li>
+    <li>🔒 Security: Cloud=> AWS, Azure & GCP</li>
+    <li>🔒 Security: DevOps</li>
+    <li>🔒 Security: Database</li>	
 </ul>
 
 <br>$\color{orange}{\textsf{[2.]}}$ ☁️ $\color{orange}{\textsf{Good Hands-on-Experience with Cloud:}}$ I have expertise in <b>AWS 🟠, Azure 🔵, and GCP 🟡</b>, including <b>Serverless solutions like Lambda ⚡ and Containerized Architectures with Fargate 📦</b>. I am skilled in Business Process Automation 🤖, Marketing Strategy 📈, Process Optimization 🔄, Business Process Re-engineering 🛠️, Business Planning 🗂️, Agile Methodologies 🏃, Project Management 📋, System Design and Development 🖥️, Quality Assurance ✅, Risk Assessment and Mitigation ⚠️, and Stakeholder Communication 🗣️.<br>
