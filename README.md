@@ -2,7 +2,7 @@
 $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Experience in Modern Technical Architecture:}}$ I am an IT professional with <b>✨ 18+ Years of Experience 🌟</b> in both Product-based 💻 and Service-based 🛠️ organizations. I’m proficient in making Well-Framework Tech Stack Decisions, focusing on selecting the right tools and technologies for 
 <p>$\color{orange}{\textsf{Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
-    <li>MERN & Full Stack [Node.js, React.js, Redux, Ember.js, Vue.js, .NET Core, Ajax, Full Stack, Golang, Python, Java, JavaScript, PHP, jQuery, HTML, CSS]</li>
+    <li>💻 MERN & Full Stack [Node.js, React.js, Redux, Ember.js, Vue.js, .NET Core, Ajax, Full Stack, Golang, Python, Java, JavaScript, PHP, jQuery, HTML, CSS]</li>
     <li>🔗 Blockchain - Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</li>
     <li>☁️ Cloud: AWS, Azure & GCP</li>
     <li>⚙️ DevOps: [CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform]</li>
@@ -13,7 +13,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</li>
     <li>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</li>
     <li>💳 Payment Gateway: UPI, IMPS, Gpay, Cashfree, PhonePe, PayTm &, e-Mandate</li>
-    <li>KYC [Complete Automation using Generative AI/ML]</li>	
+    <li>🔍 KYC [Complete Automation using Generative AI/ML]</li>	
     <li>🔒 SOC 2, PCI, DSS, HIPAA, GDPR, RBI Guidelines</li>
 </ul>
 
