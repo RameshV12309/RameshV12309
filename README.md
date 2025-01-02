@@ -1,6 +1,6 @@
 # 💫 $\color{orange}{\textsf{About Me: RAMESH V    [Technical Architect: NBFC-FinTech]}}$
 $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Experience in Modern Technical Architecture:}}$ I am an IT professional with <b>✨ 18+ Years of Experience 🌟</b> in both Product-based 💻 and Service-based 🛠️ organizations. I’m proficient in making Well-Framework Tech Stack Decisions, focusing on selecting the right tools and technologies for 
-<p>$\color{orange}{\textsf{Tech Stack: Technical & Solution Architect}}$</p>
+<p>$\color{orange}{\textsf{Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
     <li>MERN & Full Stack [Node.js, React.js, Redux, Ember.js, Vue.js, .NET Core, Ajax, Full Stack, Golang, Python, Java, JavaScript, PHP, jQuery, HTML, CSS]</li>
     <li>🔗 Blockchain - Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</li>
