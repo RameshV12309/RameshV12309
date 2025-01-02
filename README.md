@@ -13,6 +13,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</li>
     <li>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</li>
     <li>💳 Payment Gateway: UPI, IMPS, Gpay, Cashfree, PhonePe, PayTm &, e-Mandate</li>
+    <li>KYC [Complete Automation using Generative AI/ML]</li>	
     <li>🔒 SOC 2, PCI, DSS, HIPAA, GDPR, RBI Guidelines</li>
 </ul>
 
