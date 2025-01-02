@@ -4,24 +4,24 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 <p>$\color{orange}{\textsf{Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
     <li><b>💻 MERN & Full Stack: [Node.js, React.js, Redux, Ember.js, Vue.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
-    <li>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</li>
+    <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</b></li>
     <li>☁️ Cloud: AWS, Azure & GCP</li>
-    <li>⚙️ DevOps: [CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform]</li>
-    <li>📋 Management: Jira & Agile Development Methodologies</li>
-    <li>📱 Mobile: React Native Mobile [Android & iOS]</li>
-    <li>🗂️ Database: MongoDB, Mongoose, SQL, MySQL, SQLite (SQL), Redis (NoSQL, key-value store), PostgreSQL (SQL), Firebase Realtime Database (NoSQL), and Elasticsearch (Search and Analytics Engine)</li>
-    <li>🧪 Testing Team [Selenium & Appium Android]</li>
-    <li>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</li>
-    <li>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</li>
-    <li>💳 Payment Gateway: UPI, IMPS, Gpay, Cashfree, PhonePe, PayTm &, e-Mandate</li>
-    <li>🔍 KYC [Complete Automation using Generative AI/ML]</li>	
-    <li>🔒 RBI Guidelines: SOC 2, PCI, DSS, HIPAA, GDPR</li>
-    <li>🔒 Security: Front-End, Back-End, Mobile APP, API's</li>
-    <li>🔒 Security: Cloud=> AWS, Azure & GCP</li>
-    <li>🔒 Security: DevOps and Cybersecurity</li>
-    <li>🔒 Security: Database</li>
-    <li>🌐 Domain Expansion: 💰Banking-NBFC-FinTech, 🏥Health Care, ☁️Cloud, 🛒E-commerce & 🤖Chatbot. 🏢Enterprise Solutions: 🧾ERP Systems & 📊CRM Systems</li>
-    <li>Startup-level Organizations Setup: I have successfully implemented complete end-to-end solutions, tech stack for startup-level organizations</li>	
+    <li><b>⚙️ DevOps: [CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform]</b></li>
+    <li><b>📋 Management: Jira & Agile Development Methodologies</b></li>
+    <li><b>📱 Mobile: React Native Mobile [Android & iOS]</b></li>
+    <li><b>🗂️ Database: MongoDB, Mongoose, SQL, MySQL, SQLite (SQL), Redis (NoSQL, key-value store), PostgreSQL (SQL), Firebase Realtime Database (NoSQL), and Elasticsearch (Search and Analytics Engine)</b></li>
+    <li><b>🧪 Testing Team [Selenium & Appium Android]</b></li>
+    <li><b>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</b></li>
+    <li><b>🤖 ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs) and ChatGPT Modern Concepts</b></li>
+    <li><b>💳 Payment Gateway: UPI, IMPS, Gpay, Cashfree, PhonePe, PayTm &, e-Mandate</b></li>
+    <li><b>🔍 KYC [Complete Automation using Generative AI/ML]</b></li>	
+    <li><b>🔒 RBI Guidelines: SOC 2, PCI, DSS, HIPAA, GDPR</b></li>
+    <li><b>🔒 Security: Front-End, Back-End, Mobile APP, API's</b></li>
+    <li><b>🔒 Security: Cloud=> AWS, Azure & GCP</b></li>
+    <li><b>🔒 Security: DevOps and Cybersecurity</b></li>
+    <li><b>🔒 Security: Database</b></li>
+    <li><b>🌐 Domain Expansion: 💰Banking-NBFC-FinTech, 🏥Health Care, ☁️Cloud, 🛒E-commerce & 🤖Chatbot. 🏢Enterprise Solutions: 🧾ERP Systems & 📊CRM Systems</b></li>
+    <li><b>Startup-level Organizations Setup: I have successfully implemented complete end-to-end solutions, tech stack for startup-level organizations</b></li>	
 </ul>
 
 $\color{orange}{\textsf{[2.]}}$ 🤝 $\color{orange}{\textsf{Team Management and Team Handling:}}$ I am a versatile professional with experience <b>Managing Multiple Teams Across Various Domains</b>, including <b>[Front-end, Back-end, Database, Cloud, Mobile App, DevOps, Blockchain, AI/ML, RPA - Robotic Process Automation, Product Manager & Product Designing, and Business Operations]</b>. I have successfully led these teams <b>independently</b>, ensuring seamless coordination and alignment with project goals. With hands-on experience in team handling, I continue to manage and guide these teams effectively to deliver high-quality results.
