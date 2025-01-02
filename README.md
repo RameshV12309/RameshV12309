@@ -2,12 +2,12 @@
 $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Experience in Modern Technical Architecture:}}$ I am an IT professional with <b>✨ 18+ Years of Experience 🌟</b> in both Product-based 💻 and Service-based 🛠️ organizations. I’m proficient in making Well-Framework Tech Stack Decisions, focusing on selecting the right tools and technologies for 
 <p>$\color{orange}{\textsf{Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
-    <li>💻 MERN & Full Stack [Node.js, React.js, Redux, Ember.js, Vue.js, .NET Core, Ajax, Full Stack, Golang, Python, Java, JavaScript, PHP, jQuery, HTML, CSS]</li>
-    <li>🔗 Blockchain - Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</li>
+    <li>💻 MERN & Full Stack: [Node.js, React.js, Redux, Ember.js, Vue.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</li>
+    <li>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges</li>
     <li>☁️ Cloud: AWS, Azure & GCP</li>
     <li>⚙️ DevOps: [CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform]</li>
-    <li>📋 Jira & Agile Development Methodologies</li>
-    <li>📱 React Native Mobile [Android & iOS]</li>
+    <li>📋 Management: Jira & Agile Development Methodologies</li>
+    <li>📱 Mobile: React Native Mobile [Android & iOS]</li>
     <li>🗂️ Database: MongoDB, Mongoose, SQL, MySQL, SQLite (SQL), Redis (NoSQL, key-value store), PostgreSQL (SQL), Firebase Realtime Database (NoSQL), and Elasticsearch (Search and Analytics Engine)</li>
     <li>🧪 Testing Team [Selenium & Appium Android]</li>
     <li>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</li>
