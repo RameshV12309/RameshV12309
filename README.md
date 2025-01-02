@@ -453,7 +453,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
 	<li> <b>NOTE:</b> Successfully worked on more than 10 complex products</li>
 </ul>
 
-# 💫 $\color{orange}{\textsf{Greatest Achievements:}}$
+# 💫 ✨🏆 $\color{orange}{\textsf{Greatest Achievements:}}$
 <ul>
     <li>Best Performer Award: Received the Best Performer Award for outstanding contributions during tenure.</li> 
     <li>Successful Re-Architecture: Successfully completed re-architecture of Cloud Platforms, MERN Stack, DevOps, Mobile, Database, and Jira</li>
