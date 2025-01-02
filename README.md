@@ -150,7 +150,6 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
     <li> ↔️🔧Horizontal Scaling</li>
     <li> ↕️🔧Vertical Scaling</li>
     <li> 🔄📈Auto Scaling</li>
-    <li> 🔗🛠️Middleware and Integration Layer</li>
     <li> 💡⚙️Business Logic Layer</li>
     <li> 📊🔗Data Fetching and Integration Layer</li>
     <li> 🔐🔑Authentication and Authorization Architecture Layer</li>
