@@ -21,7 +21,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li><b>🔒 Security: DevOps and Cybersecurity</b></li>
     <li><b>🔒 Security: Database</b></li>
     <li><b>🌐 Domain Expansion: 💰Banking-NBFC-FinTech, 🏥Health Care, ☁️Cloud, 🛒E-commerce & 🤖Chatbot. 🏢Enterprise Solutions: 🧾ERP Systems & 📊CRM Systems</b></li>
-    <li><b>🚀 Startup-level Organizations Setup: I have successfully implemented complete end-to-end solutions, tech stack for startup-level organizations</b></li>	
+    <li><b>🚀 Startup-level Organizations Setup: I have successfully implemented complete End-to-End solutions, tech stack for startup-level organizations</b></li>	
 </ul>
 
 $\color{orange}{\textsf{[2.]}}$ 🤝 $\color{orange}{\textsf{Team Management and Team Handling:}}$ I am a versatile professional with experience <b>Managing Multiple Teams Across Various Domains</b>, including <b>[Front-end, Back-end, Database, Cloud, Mobile App, DevOps, Blockchain, AI/ML, RPA - Robotic Process Automation, Product Manager & Product Designing, and Business Operations]</b>. I have successfully led these teams <b>independently</b>, ensuring seamless coordination and alignment with project goals. With hands-on experience in team handling, I continue to manage and guide these teams effectively to deliver high-quality results.
