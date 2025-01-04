@@ -7,7 +7,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li><b>💻 MERN & Full Stack: [Node.js, Express.js, React.js, Vite.js, Redux, Ember.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
     <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges.</b></li>
     <li><b>☁️ Cloud: AWS, Azure & GCP</b></ul></li>
-<li>⚙️ $\color{orange}{\textsf{DevOps:}}$
+    <li>⚙️ DevOps:
 	<ul><li><b>Version Control Systems:</b> GitHub/GitLab/Bitbucket/AWS CodeCommit 🗃️</li>
 	<li><b>CI/CD:</b> Jenkins/GitLab/CodePipeline 🔄</b></li>
 	<li><b>Containerization and Orchestration:</b> Docker, Kubernetes 🐳⚙️</li>
