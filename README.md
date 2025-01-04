@@ -7,6 +7,21 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li><b>💻 MERN & Full Stack: [Node.js, Express.js, React.js, Vite.js, Redux, Ember.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
     <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges.</b></li>
     <li><b>☁️ Cloud: AWS, Azure & GCP</b></li>
+<li>⚙️ DevOps:</li>
+	<li>Version Control Systems: GitHub/GitLab/Bitbucket/AWS CodeCommit 🗃️</li>
+	<li>CI/CD: Jenkins/GitLab/CodePipeline 🔄</li>
+	<li>Containerization and Orchestration: Docker, Kubernetes 🐳⚙️</li>
+	<li>Infrastructure as Code (IaC): Terraform/AWS CloudFormation/Ansible/Puppet 🛠️</li>
+	<li>Monitoring and Logging: Prometheus/Grafana/Splunk/CloudWatch 📊📈</li>
+	<li>Cloud Platforms: AWS/Azure/GCP ☁️</li>
+	<li>Collaboration and Communication: Slack/Jira 💬📋</li>
+	<li>Security: SonarQube/HashiCorp Vault/Aqua Security/Twistlock 🔒</li>
+	<li>Artifact Repository: Docker Hub/Nexus Repository/JFrog Artifactory 📦</li>
+	<li>Build Tools: Maven/Gradle/Webpack 🛠️</li>
+	<li>Testing and Quality Assurance: Selenium/JUnit/TestNG/SonarCloud ✅</li>
+	<li>Configuration Management: Chef/Puppet/SaltStack 🍳🧸🧂</li>
+	<li>Load Balancing and API Gateway: NGINX/HAProxy/AWS API Gateway 🔀</li>
+	<li>Backup and Disaster Recovery: Veeam/CloudEndure 🔄⏳</li>
     <li><b>⚙️ DevOps: [Version Control Systems: GitHub/GitLab/Bitbucket/AWS CodeCommit], [CI/CD: Jenkins/GitLab/Codepipeline], [Containerization and Orchestration: Docker, Kubernetes], [Infrastructure as Code (IaC): Terraform/AWS CloudFormation/Ansible/Puppet], [Monitoring and Logging: Prometheus/Grafana/Splunk/Cloudwatch], [Cloud Platforms: AWS/Azure/GCP], [Collaboration and Communication: Slack/Jira], [Security: SonarQube/HashiCorp Vault/Aqua Security/Twistlock], [Artifact Repository: Docker Hub/Nexus Repository/JFrog Artifactory], [Build Tools: Maven/Gradle/Webpack], [Testing and Quality Assurance: Selenium/JUnit/TestNG/SonarCloud], [Configuration Management: Chef/Puppet/SaltStack], [Load Balancing and API Gateway: NGINX/HAProxy/AWS API Gateway], [Backup and Disaster Recovery: Veeam/CloudEndure]</b></li>
     <li><b>📋 Management: Jira & Agile Development Methodologies</b></li>
     <li><b>📱 Mobile: React Native and Flutter Mobile [Android & iOS]</b> and using Firebase: Real-time database, authentication, push notifications</li>
