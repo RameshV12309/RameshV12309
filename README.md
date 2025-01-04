@@ -21,8 +21,8 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 	<li><b>Testing and Quality Assurance:</b> Selenium/JUnit/TestNG/SonarCloud ✅</li>
 	<li><b>Configuration Management:</b> Chef/Puppet/SaltStack 🍳🧸🧂</li>
 	<li><b>Load Balancing and API Gateway:</b> NGINX/HAProxy/AWS API Gateway 🔀</li>
-	<li><b>Backup and Disaster Recovery:</b> Veeam/CloudEndure 🔄⏳</ul></li>
-    <ul><li><b>📋 Management:</b> Jira & Agile Development Methodologies</b></li>
+	<li><b>Backup and Disaster Recovery:</b> Veeam/CloudEndure 🔄⏳</li></ul></li>
+    <li><b>📋 Management:</b> Jira & Agile Development Methodologies</b></li>
     <li><b>📱 Mobile: React Native and Flutter Mobile [Android & iOS]</b> and using Firebase: Real-time database, authentication, push notifications</li>
     <li><b>🗂️ Database: MongoDB, Mongoose, SQL, MySQL, SQLite (SQL), Redis (NoSQL, key-value store), PostgreSQL (SQL), Firebase Realtime Database (NoSQL), and Elasticsearch (Search and Analytics Engine)</b></li>
     <li><b>🧪 Testing Team [Selenium & Appium Android]</b></li>
