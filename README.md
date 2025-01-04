@@ -9,7 +9,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li><b>☁️ Cloud: AWS, Azure & GCP</b></li>
     <li><b>⚙️ DevOps: [CI/CD-Pipeline, Jenkins, Github, Docker, Kubernetes and Terraform]</b></li>
     <li><b>📋 Management: Jira & Agile Development Methodologies</b></li>
-    <li><b>📱 Mobile: React Native Mobile [Android & iOS]</b></li>
+    <li><b>📱 Mobile: React Native and Flutter Mobile [Android & iOS]</b></li>
     <li><b>🗂️ Database: MongoDB, Mongoose, SQL, MySQL, SQLite (SQL), Redis (NoSQL, key-value store), PostgreSQL (SQL), Firebase Realtime Database (NoSQL), and Elasticsearch (Search and Analytics Engine)</b></li>
     <li><b>🧪 Testing Team [Selenium & Appium Android]</b></li>
     <li><b>🌐 REST, gRPC, RabbitMQ, Kafka, NSN, SMS, Notification</b></li>
