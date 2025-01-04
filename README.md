@@ -2,7 +2,7 @@
 
 $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Experience in Modern Technical Architecture:}}$ I am an IT professional with <b>✨ 18+ Years of Experience 🌟</b> in both Product-based 💻 and Service-based 🛠️ organizations. I’m proficient in ensuring Scalability, Flexibility, Maintainability, Reusability, and implementing Well-Architected Patterns using Modern Tech Stack decisions, with a focus on selecting the right tools and technologies for optimal solutions.
 
-<p>$\color{orange}{\textsf{Tech Stack: Technical and Solution Architect}}$</p>
+<p>$\color{orange}{\textsf{Good Hands-on Experience in Modern Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
     <li><b>💻 MERN & Full Stack: [Node.js, Express.js, React.js, Vite.js, Redux, Ember.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
     <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges.</b></li>
