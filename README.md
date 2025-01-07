@@ -454,7 +454,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
 	<li> Experience in Designing and Implementing Microservices-Based Architecture for Enterprise Architecture</li>
 	<li> Banking-NBFC-FinTech Product Domain: Based Architecture</li>
 	<li> Health Care Product Architecture</li>
-	<li> E-commerce Product Architecture</li>
+	<li> E-commerce & Chatbot. Enterprise Solutions: ERP Systems & CRM Systems</li>
 	<li> Product Application Migration Architecture</li>
 	<li> Database Migration: using ETL and Complete Database Architecture</li>
 	<li> Cloud Migration and Implementation [AWS, Azure & CGP]</li>
