@@ -285,7 +285,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
         <td>$\color{orange}{\textsf{17}}$</td>
         <td>AWS CodeDeploy</td>
         <td>Google Cloud Deploy</td>
-        <td>Azure DevOps Release Management</td>
+        <td>Azure DevOps Release/Releases Management</td>
       </tr>
       <tr>
         <td>$\color{orange}{\textsf{18}}$</td>
