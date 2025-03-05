@@ -291,7 +291,7 @@ $\color{orange}{\textsf{[20.]}}$ 🌟 $\color{orange}{\textsf{Tech Stack:}}$ Pro
         <td>$\color{orange}{\textsf{18}}$</td>
         <td>AWS Elastic Beanstalk</td>
         <td>Google App Engine</td>
-        <td>Azure App Service</td>
+        <td>Azure App Service: Azure Static web app & Azure Web app, and etc...</td>
       </tr>
       <tr>
         <td>$\color{orange}{\textsf{19}}$</td>
