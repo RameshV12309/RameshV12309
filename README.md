@@ -9,7 +9,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li><b>☁️ Cloud: AWS, Azure & GCP</b></li>
     <li>DevOps:⚙️
 	<ul><li><b>Version Control Systems:</b> GitHub / GitLab / Bitbucket / AWS CodeCommit / Azure Repos 🗃️</li>
-	<li><b>CI/CD:</b> Jenkins / GitLab / AWS CodePipeline / Bitbucket / Azure DevOps pipeline & Azure Releases🔄</b></li>
+	<li><b>CI/CD:</b> Jenkins / GitLab / AWS CodePipeline / Bitbucket / Azure DevOps Pipeline & Azure Releases🔄</b></li>
 	<li><b>Containerization and Orchestration:</b> Docker, Kubernetes 🐳⚙️</li>
 	<li><b>Infrastructure as Code (IaC):</b> Terraform/AWS CloudFormation/Ansible/Puppet 🛠️</li>
 	<li><b>Monitoring and Logging:</b> Prometheus/Grafana/Splunk/CloudWatch 📊📈</li>
