@@ -5,7 +5,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 <p>$\color{orange}{\textsf{Good Hands-on Experience in Modern Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
     <li><b>💻 MERN & Full Stack: [Node.js, Express.js, React.js, Vite.js, Redux, Ember.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
-    <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. Along with ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), ChatGPT Modern Concepts, RAG-Retrieval-Augmented Generation, and AI-Agent</b></li>
+    <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. Along with ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), ChatGPT, RAG-Retrieval-Augmented Generation, and AI-Agent</b></li>
     <li><b>☁️ Cloud: AWS, Azure & GCP</b></li>
     <li>DevOps:⚙️
 	<ul><li><b>Version Control Systems:</b> GitHub / GitLab / Bitbucket / AWS CodeCommit / Azure Repos 🗃️</li>
