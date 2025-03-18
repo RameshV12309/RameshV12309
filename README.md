@@ -36,7 +36,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
     <li><b>🔒 Security: Cloud=> AWS, Azure & GCP</b></li>
     <li><b>🔒 Security: DevOps and Cybersecurity</b></li>
     <li><b>🔒 Security: Database</b></li>
-    <li><b>🌐 Good Domain Experiences: 💰Banking-NBFC-FinTech, 🏥Health Care, ☁️Cloud, 🛒E-commerce & 🤖Chatbot. 🏢Enterprise Solutions: 🧾ERP Systems & 📊CRM Systems</b></li>
+    <li><b>🌐 Good Domain Experiences: 💰Banking-NBFC-FinTech,  Ride-Hailing Platforms (similar to Uber/Ola/Rapido), 🏥Health Care, ☁️Cloud, 🛒E-commerce & 🤖Chatbot. 🏢Enterprise Solutions: 🧾ERP Systems & 📊CRM Systems</b></li>
     <li><b>🚀 Startup-level Organizations Setup: I have successfully implemented complete End-to-End solutions, tech stack for startup-level organizations</b></li>	
 </ul>
 
