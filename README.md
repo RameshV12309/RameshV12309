@@ -5,7 +5,7 @@ $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Exper
 <p>$\color{orange}{\textsf{Good Hands-on Experience in Modern Tech Stack: Technical and Solution Architect}}$</p>
 <ul>
     <li><b>💻 MERN & Full Stack: [Node.js, Express.js, React.js, Vite.js, Redux, Ember.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
-    <li><b>🔗 Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. Along with ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), Langchain, Llama, ChatGPT, RAG-Retrieval-Augmented Generation, AI-Agent, AWS SageMaker, AWS Bedrock, [Vector Databases: Pinecone and ChromaDB]</b></li>
+    <li><b>🔗 AI/ML and Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. Along with ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), Langchain, Llama, ChatGPT, RAG-Retrieval-Augmented Generation, AI-Agent, AWS SageMaker, AWS Bedrock, [Vector Databases: Pinecone and ChromaDB]</b></li>
     <li><b>☁️ Cloud: AWS, Azure & GCP</b></li>
     <li>DevOps:⚙️
 	<ul><li><b>Version Control Systems:</b> GitHub / GitLab / Bitbucket / AWS CodeCommit / Azure Repos 🗃️</li>
@@ -58,7 +58,7 @@ $\color{orange}{\textsf{[9.]}}$ ⏱️ $\color{orange}{\textsf{Timely Product De
 
 $\color{orange}{\textsf{[10.]}}$ 🌟 $\color{orange}{\textsf{Master of Startup Organizations Complete Environments and Infrastructure Setup:}}$ I have successfully implemented end-to-end solutions for startup-level organizations, covering all critical aspects such as <b>[Front-end setup, Back-end setup architecture, Cloud infrastructure, DevOps pipelines, Database Management, and Network configurations]</b>. My comprehensive approach ensures the seamless setup and scalability of technology ecosystems, enabling startups to achieve their business goals efficiently and effectively.
 
-$\color{orange}{\textsf{[11.]}}$ 🔧 $\color{orange}{\textsf{Good Hands-on-Experience in DevOps:}}$  I possess strong expertise in DevOps practices, including working with various configurations like <b>[ECS + EC2], [ECS + Fargate], [EKS + EC2], [EKS + Fargate], and [Lambda + API Gateway]</b>. I am skilled in building and managing <b>CI/CD Pipelines, Containerization with Docker, and Orchestrating with Kubernetes</b>. Additionally, I have extensive experience in infrastructure automation using tools like Terraform and CloudFormation, ensuring seamless and efficient deployments across environments.
+$\color{orange}{\textsf{[11.]}}$ 🔧 $\color{orange}{\textsf{Good Hands-on-Experience in DevOps:}}$  I possess strong expertise in DevOps practices, including working with various configurations like <b>[ECS + EC2], [ECS + Fargate], [EKS + EC2], [EKS + Fargate], [Lambda + API Gateway], and [Azure App Service: Azure Static web app & Azure Web app, and etc...]</b>. I am skilled in building and managing <b>CI/CD Pipelines, Containerization with Docker, and Orchestrating with Kubernetes</b>. Additionally, I have extensive experience in infrastructure automation using tools like Terraform and CloudFormation, ensuring seamless and efficient deployments across environments.
 
 $\color{orange}{\textsf{[12.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on-Experience Microservices Architecture:}}$ Expertise in designing scalable, maintainable, and distributed systems with a strong focus on Microservices Architecture.
 
