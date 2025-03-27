@@ -2,7 +2,7 @@
 
 $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Experience in Modern Technical Architecture:}}$ I am an IT professional with <b>✨ 18+ Years of Experience 🌟</b> in both Product-based 💻 and Service-based 🛠️ organizations. I’m proficient in ensuring <b>Scalability, Flexibility, Maintainability, Reusability, and Implementing Well-Architected Patterns using a Modern Tech Stack for Product Decisions.</b> I always focus on selecting the right algorithms and technologies to achieve optimal solutions.
 
-<p>$\color{orange}{\textsf{Good Hands-on Experience in Modern Tech Stack: Technical, Solution Architect & AI/ML, Gen AI, NLP, LLMs, Langchain, Llama, RAG, Vector Databases - Architect}}$</p>
+<p>$\color{orange}{\textsf{Good Hands-on Experience in Modern Tech Stack: Technical, Solution Architect and AI/ML, Gen AI, NLP, LLMs, Langchain, Llama, RAG, Vector Databases - Architect}}$</p>
 <ul>
     <li><b>💻 MERN & Full Stack: [Node.js, Express.js, React.js, Vite.js, Redux, Ember.js, Golang, Python, PHP, .NET Core, Ajax, Java, JavaScript, jQuery, HTML, CSS]</b></li>
     <li><b>🔗 AI/ML and Blockchain: Smart Contracts, Wallets, EVM, DeFi, Crypto Exchanges. Along with ChatGPT AI/ML, Generative AI, Natural Language Processing (NLP), Large Language Models (LLMs), Langchain, Llama, ChatGPT, RAG-Retrieval-Augmented Generation, AI-Agent, AWS SageMaker, AWS Bedrock, [Vector Databases: Pinecone and ChromaDB]</b></li>
