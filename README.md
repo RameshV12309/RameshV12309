@@ -1,4 +1,4 @@
-# 💫 💼 $\color{orange}{\textsf{About Me: RAMESH V    [Technical Architect: NBFC-FinTech]}}$
+# 💫 💼 $\color{orange}{\textsf{About Me: RAMESH V    [Technical Architect: NBFC-FinTech - AI/ML, Gen AI, NLP, LLMs, Langchain, Llama, RAG, Vector Databases]}}$
 
 $\color{orange}{\textsf{[1.]}}$ 🌟 $\color{orange}{\textsf{Good Hands-on Experience in Modern Technical Architecture:}}$ I am an IT professional with <b>✨ 18+ Years of Experience 🌟</b> in both Product-based 💻 and Service-based 🛠️ organizations. I’m proficient in ensuring <b>Scalability, Flexibility, Maintainability, Reusability, and Implementing Well-Architected Patterns using a Modern Tech Stack for Product Decisions.</b> I always focus on selecting the right algorithms and technologies to achieve optimal solutions.
 
